@@ -50,7 +50,7 @@ The problem with watching UFC from a country other than America is the time diff
 This is a Flutter project. The app downloads fighters' data by scraping data using HTTP requests and also uses an external fight scores API. Project was started but never completed due to other projects.
 
 ## Screenshots
-Images Images Temp. Unavailable
+Images Temp. Unavailable
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
@@ -69,7 +69,7 @@ Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the
 ## Screenshots
 ![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
 
-Images Images Temp. Unavailable
+Images Temp. Unavailable
 
 ## Used To Do App
 - XML Package
