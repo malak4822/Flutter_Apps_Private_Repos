@@ -19,12 +19,12 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 - Shared Preferences
 
 ## Screenshots
-<img src='https://github.com/user-attachments/assets/5f01d9ac-ec0d-4b68-aed6-cee30b56602b' width='200'>
-<img src='https://github.com/user-attachments/assets/6ba7f074-47b5-4ae5-a6c2-4e17edc12a88' width='200'>
-<img src='https://github.com/user-attachments/assets/eb01a390-e9bd-413b-b844-8ea954a68605' width='200'>
-<img src='https://github.com/user-attachments/assets/8b29a9fd-a76d-4c07-b1dc-126471b203c6' width='200'>
-<img src='https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f' width='200'>
-<img src='https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876' width='200'>
+<img src='https://github.com/user-attachments/assets/5f01d9ac-ec0d-4b68-aed6-cee30b56602b' width='400'>
+<img src='https://github.com/user-attachments/assets/6ba7f074-47b5-4ae5-a6c2-4e17edc12a88' width='400'>
+<img src='https://github.com/user-attachments/assets/eb01a390-e9bd-413b-b844-8ea954a68605' width='400'>
+<img src='https://github.com/user-attachments/assets/8b29a9fd-a76d-4c07-b1dc-126471b203c6' width='400'>
+<img src='https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f' width='400'>
+<img src='https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876' width='400'>
 
 More images temporarily unavailable.
 
@@ -72,6 +72,7 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 <img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='200'>
 <img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='200'>
 <img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='200'>
+More images temporarily unavailable.
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -131,6 +132,7 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 <img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='200'>
 <img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='200'>
 <img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='200'>
+More images temporarily unavailable.
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
