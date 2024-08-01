@@ -60,6 +60,33 @@ If you encounter any bugs or unnecessary lines of code, please email me at: kmal
 ___
 
 
+#  <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='40'> Facei
+
+## Description
+Facei is a mobile application designed primarily for fun. With Praktapp, you can swap your nose with various fruits and change your background by selecting different options. Additionally, if you choose your favorite style, you can take a screenshot by expanding the bottom app bar. I also wrote a story in Polish about my journey of doing this app on Medium
+This app was developed within one month as part of a school apprenticeship project. During the development process, I had a tutor who provided occasional tips and guidance.
+
+## Links
+### <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='24'>  [Google Play Link](https://play.google.com/store/apps/details?id=malaq.facei) 
+### <img src='https://cdn-icons-png.flaticon.com/512/5968/5968906.png' width='24'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
+
+## Used To Do App
+- Body Detection Package
+- Screenshots
+- CustomPaint
+
+## Screenshots
+![433446777_718452903507370_2772289496853536776_n](https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1)
+![433997418_919880109835489_6508107908083874230_n](https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc)
+![433468986_1656269464779053_5398836327856724739_n](https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9)
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
 
 
 # <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'>  Your Wasted Time In School
@@ -80,30 +107,6 @@ Images Temp. Unavailable
 
 ## Bug Report
 If you will see some pointless lines or bugs, please contact me on email: kmalak4822@gmail.com
-
-
-
-
-___
-
-
-
-# Jap-Eng XML Translator
-
-## Description
-Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was never completed due to the commencement of a new and improved project, it aimed to serve as a translator from English to Japanese. The name of the app was derived from the format of the file containing saved translated words, emphasizing its practicality and efficiency.
-
-## Screenshots
-![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
-
-Images Temp. Unavailable
-
-## Used To Do App
-- XML Package
-- CustomPaint
-
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
 
 
 
@@ -137,6 +140,56 @@ ___
 
 
 
+
+
+# <img src='https://github.com/malak4822/Flunny/assets/71153710/ada3686e-1037-4816-8cc0-0406697c1079' width='46'> Flunny
+
+## Description
+Flunny is Flutter application which helps people to play in popular in real life game caled "Flanki", it counts time and points of players. 
+
+## Used To Do App
+- Google Sign In Method
+- Stop Watch Timer
+
+## Screenshots
+![Screenshot_1711320700](https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2)
+![Screenshot_1711320803](https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c)
+![Screenshot_1711321141](https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870)
+
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
+
+# Jap-Eng XML Translator
+
+## Description
+Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was never completed due to the commencement of a new and improved project, it aimed to serve as a translator from English to Japanese. The name of the app was derived from the format of the file containing saved translated words, emphasizing its practicality and efficiency.
+
+## Screenshots
+![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
+
+Images Temp. Unavailable
+
+## Used To Do App
+- XML Package
+- CustomPaint
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+
+___
+
+
+
+
 # Toipy
 Never ended application due finding out that there is very similar application on market. It includes Google Maps and signing-in user system. 
 
@@ -146,6 +199,25 @@ If you see some pointless lines of code or bugs email me at: kmalak4822@gmail.co
 
 
 ___
+
+
+
+
+## Database Test App
+Flutter shop project! Originally conceived for educational purposes, this app allows users to add products to their shopping cart and manage them seamlessly. Although temporarily paused, it serves as an invaluable learning experience for me.
+
+## Used To Do App
+- MySql1 DB Package
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
+
+
 
 
 
