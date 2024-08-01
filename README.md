@@ -26,7 +26,7 @@ Project have over 5880 lines of code. “Praktyki Szkolne” is an app developed
 ![10](https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f)
 ![12](https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876)
 
-Temp. unavailable
+More Images Temp. Unavailable
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
@@ -36,7 +36,7 @@ ___
 
 
 
-# UFC Fights Reminder
+#  <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg' width='40'> UFC Fights Reminder
 
 ## Description
 The problem with watching UFC from a country other than America is the time difference. Viewers sometimes just want to watch only one fight which will be at night. Users don't know exactly when their chosen fight will occur because the duration of fights sometimes varies. This app solves this problem by waking up the viewer at the exact time for their chosen fight. It does this by downloading data about the end of the fight before the chosen fight, and then wakes up the user.
@@ -50,7 +50,30 @@ The problem with watching UFC from a country other than America is the time diff
 This is a Flutter project. The app downloads fighters' data by scraping data using HTTP requests and also uses an external fight scores API. Project was started but never completed due to other projects.
 
 ## Screenshots
-Temp. unavailable
+Images Images Temp. Unavailable
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
+
+
+# Jap-Eng XML Translator
+
+## Description
+Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was never completed due to the commencement of a new and improved project, it aimed to serve as a translator from English to Japanese. The name of the app was derived from the format of the file containing saved translated words, emphasizing its practicality and efficiency.
+
+## Screenshots
+![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
+
+Images Images Temp. Unavailable
+
+## Used To Do App
+- XML Package
+- CustomPaint
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
@@ -76,6 +99,7 @@ Your Wasted Time in School is a mobile application built with Flutter and Dart i
 ## Screenshots
 ![ss1](https://github.com/malak4822/wstdsqltime/assets/71153710/442a6d4c-7e0d-46aa-bff0-f54d7d81a63d)
 ![ss2](https://github.com/malak4822/wstdsqltime/assets/71153710/00b550cd-e88c-49d7-850a-324b9e47012a)
+Images Temp. Unavailable
 
 ## Bug Report
 If you will see some pointless lines or bugs, please contact me on email: kmalak4822@gmail.com
@@ -116,5 +140,10 @@ Never ended application due finding out that there is very similar application o
 
 ## Bugs
 If you see some pointless lines of code or bugs email me at: kmalak4822@gmail.com
+
+
+
+___
+
 
 
