@@ -61,29 +61,6 @@ ___
 
 
 
-# Jap-Eng XML Translator
-
-## Description
-Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was never completed due to the commencement of a new and improved project, it aimed to serve as a translator from English to Japanese. The name of the app was derived from the format of the file containing saved translated words, emphasizing its practicality and efficiency.
-
-## Screenshots
-![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
-
-Images Temp. Unavailable
-
-## Used To Do App
-- XML Package
-- CustomPaint
-
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
-
-
-
-___
-
-
-
 
 # <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'>  Your Wasted Time In School
 
@@ -106,12 +83,37 @@ If you will see some pointless lines or bugs, please contact me on email: kmalak
 
 
 
+
+___
+
+
+
+# Jap-Eng XML Translator
+
+## Description
+Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was never completed due to the commencement of a new and improved project, it aimed to serve as a translator from English to Japanese. The name of the app was derived from the format of the file containing saved translated words, emphasizing its practicality and efficiency.
+
+## Screenshots
+![Screenshot_1711703496](https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00)
+
+Images Temp. Unavailable
+
+## Used To Do App
+- XML Package
+- CustomPaint
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+
 ___
 
 
 
 
-# <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='32'>  Clone App
+# <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='32'> Clone App
 
 ## Description
 The Clone App is a fun Flutter application cloned from a concept seen in the music video ‘Błąd’ by Łona and Webber. Its primary purpose is for amusement and learning. A fun fact is that when I was releasing the app on Google Play, I noticed that someone had the exact same idea and had created a similar application which has over a thousand downloads.
