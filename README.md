@@ -1,4 +1,4 @@
-# FLUTTER_APPS
+# Flutter Apps Private Repositories
 This repo contains all readme files from apps which are in private repos which i have done 
 
 ___
@@ -26,11 +26,40 @@ Project have over 5880 lines of code. “Praktyki Szkolne” is an app developed
 ![10](https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f)
 ![12](https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876)
 
+Temp. unavailable
+
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
 
 
 ___
+
+
+
+# UFC Fights Reminder
+
+## Description
+The problem with watching UFC from a country other than America is the time difference. Viewers sometimes just want to watch only one fight which will be at night. Users don't know exactly when their chosen fight will occur because the duration of fights sometimes varies. This app solves this problem by waking up the viewer at the exact time for their chosen fight. It does this by downloading data about the end of the fight before the chosen fight, and then wakes up the user.
+
+## Used To Do App
+- Push Notification
+- Api & Scraping Data
+- Shared Preferences Package
+
+## Actions
+This is a Flutter project. The app downloads fighters' data by scraping data using HTTP requests and also uses an external fight scores API. Project was started but never completed due to other projects.
+
+## Screenshots
+Temp. unavailable
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
+
 
 
 # <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'>  Your Wasted Time In School
@@ -50,5 +79,42 @@ Your Wasted Time in School is a mobile application built with Flutter and Dart i
 
 ## Bug Report
 If you will see some pointless lines or bugs, please contact me on email: kmalak4822@gmail.com
+
+
+
+___
+
+
+
+
+# <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='32'>  Clone App
+
+## Description
+The Clone App is a fun Flutter application cloned from a concept seen in the music video ‘Błąd’ by Łona and Webber. Its primary purpose is for amusement and learning. A fun fact is that when I was releasing the app on Google Play, I noticed that someone had the exact same idea and had created a similar application which has over a thousand downloads.
+
+## Links
+### <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='24'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
+
+### <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='24'>  [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
+
+## Screenshots
+![1c](https://github.com/user-attachments/assets/6bc6599b-9259-446c-987e-1bd2ab4c8a40)
+![2cc](https://github.com/user-attachments/assets/4954423a-fb6c-4b1a-9e41-2d282d597dc9)
+
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: kmalak4822@gmail.com
+
+
+
+___
+
+
+
+# Toipy
+Never ended application due finding out that there is very similar application on market. It includes Google Maps and signing-in user system. 
+
+## Bugs
+If you see some pointless lines of code or bugs email me at: kmalak4822@gmail.com
 
 
