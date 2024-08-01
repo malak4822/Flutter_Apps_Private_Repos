@@ -1,7 +1,7 @@
 # FLUTTER_APPS
 This repo contains all readme files from apps which i have done 
 
-__________________________________________________________________________________________
+___
 
 #  <img src='https://limode.pl/wp-content/uploads/2024/04/6531135b-f743-47d7-8311-d78106360eac.png' width='40'> Praktyki Szkolne
 
