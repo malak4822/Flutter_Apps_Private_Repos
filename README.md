@@ -16,6 +16,11 @@ Project have over 5880 lines of code. “Praktyki Szkolne” is an app developed
 - Efficient Downloading Notices Mechanism
 - Url Launcher
 - Shared Preferences
+![4](https://github.com/user-attachments/assets/6ba7f074-47b5-4ae5-a6c2-4e17edc12a88)
+![5](https://github.com/user-attachments/assets/eb01a390-e9bd-413b-b844-8ea954a68605)
+![6](https://github.com/user-attachments/assets/8b29a9fd-a76d-4c07-b1dc-126471b203c6)
+![10](https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f)
+![12](https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876)
 
 ## Screenshots
 ![bg](https://github.com/user-attachments/assets/5f01d9ac-ec0d-4b68-aed6-cee30b56602b)
