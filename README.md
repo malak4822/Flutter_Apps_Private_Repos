@@ -46,10 +46,8 @@ ___
 Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
 
 ## Links
-
-
-<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='30'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
-<img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='30'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
+- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
+- <img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='22'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
 
 ## Features
 - Body Detection Package
@@ -57,16 +55,42 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 - CustomPaint
 
 ## Screenshots
-<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='400'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='400'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='400'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='200'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='200'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='200'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
+
+
 ___
 
 
+
+# <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'> Your Wasted Time In School
+
+## Description
+"Your Wasted Time in School" is a Flutter app that tracks and analyzes the time spent in school. Developed within a few days, it served as a test of the developer's ability to publish an app on Google Play.
+
+## Links
+- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Time Wasted In School](https://play.google.com/store/apps/details?id=wastedsqltime.beta&hl=en&gl=US)
+
+## Features
+- Shared Preferences
+
+## Screenshots
+<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/442a6d4c-7e0d-46aa-bff0-f54d7d81a63d' width='400'>
+<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/00b550cd-e88c-49d7-850a-324b9e47012a' width='400'>
+
+Images temporarily unavailable.
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+
+
+___
 
 
 
@@ -97,40 +121,19 @@ ___
 
 
 
-# <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'> Your Wasted Time In School
-
-## Description
-"Your Wasted Time in School" is a Flutter app that tracks and analyzes the time spent in school. Developed within a few days, it served as a test of the developer's ability to publish an app on Google Play.
-
-## Links
-- [Time Wasted In School](https://play.google.com/store/apps/details?id=wastedsqltime.beta&hl=en&gl=US)
-
-## Features
-- Shared Preferences
-
-## Screenshots
-<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/442a6d4c-7e0d-46aa-bff0-f54d7d81a63d' width='200'>
-<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/00b550cd-e88c-49d7-850a-324b9e47012a' width='200'>
-
-Images temporarily unavailable.
-
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
-
-___
-
 # <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='32'> Clone App
 
 ## Description
 The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by Łona and Webber. It's primarily for amusement and learning. A similar app already exists on Google Play with over a thousand downloads.
 
 ## Links
-- [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
-- [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
+- <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
+- <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
+
 
 ## Screenshots
-<img src='https://github.com/user-attachments/assets/6bc6599b-9259-446c-987e-1bd2ab4c8a40' width='200'>
-<img src='https://github.com/user-attachments/assets/4954423a-fb6c-4b1a-9e41-2d282d597dc9' width='200'>
+<img src='https://github.com/user-attachments/assets/6bc6599b-9259-446c-987e-1bd2ab4c8a40' width='400'>
+<img src='https://github.com/user-attachments/assets/4954423a-fb6c-4b1a-9e41-2d282d597dc9' width='400'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -147,9 +150,9 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 - Stopwatch Timer
 
 ## Screenshots
-<img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='200'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='200'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='200'>
+<img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='400'>
+<img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='400'>
+<img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='400'>
 More images temporarily unavailable.
 
 ## Bugs & Tips
@@ -157,13 +160,15 @@ If you encounter any bugs or unnecessary lines of code, please email me at: [kma
 
 ___
 
+
+
 # Jap-Eng XML Translator
 
 ## Description
 Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was not completed, it aimed to provide English to Japanese translation. The name derives from the format of the file used to save translated words.
 
 ## Screenshots
-<img src='https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00' width='200'>
+<img src='https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00' width='400'>
 
 Images temporarily unavailable.
 
