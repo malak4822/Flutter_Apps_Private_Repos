@@ -25,16 +25,50 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 <img src='https://github.com/user-attachments/assets/8b29a9fd-a76d-4c07-b1dc-126471b203c6' width='400'>
 <img src='https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f' width='400'>
 <img src='https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876' width='400'>
-<img src='https://github.com/user-attachments/assets/f4f3a432-f710-4394-a0ad-6c3eb34560ee' width='400'>
+<img src='https://github.com/user-attachments/assets/d9557b9e-509f-40ab-8e1e-1d4cb5643c47' width='400'>
 <img src='https://github.com/user-attachments/assets/45fca22e-fcf6-4a61-8602-84d7fed4a3b9' width='400'>
 <img src='https://github.com/user-attachments/assets/142ca6d5-8b10-46e5-848b-db97d4a25018' width='400'>
 <img src='https://github.com/user-attachments/assets/0ef6f309-0ddc-42c4-9d15-8679de5e70d6' width='400'>
-<img src='https://github.com/user-attachments/assets/d9557b9e-509f-40ab-8e1e-1d4cb5643c47' width='400'>
+<img src='https://github.com/user-attachments/assets/22385d78-293f-4c1b-bbae-f3217ce5dd5a' width='400'>
+<img src='https://github.com/user-attachments/assets/d84cc711-9a47-44eb-8bca-2af4e4e7953e' width='400'>
+
+## Bugs & Tips
+If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+
+___
+
+
+
+# <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='40'> Facei
+
+## Description
+Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
+
+## Links
+
+
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='30'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
+<img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='30'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
+
+## Features
+- Body Detection Package
+- Screenshots
+- CustomPaint
+
+## Screenshots
+<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='400'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='400'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='400'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
+
+
+
+
 
 # <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg' width='40'> UFC Fights Reminder
 
@@ -56,33 +90,12 @@ This is a Flutter project. It scrapes data using HTTP requests and an external f
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
+
+
 ___
 
-# <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='40'> Facei
-
-## Description
-Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
-
-## Links
 
 
-- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='40'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
-- <img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='40'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
-
-## Features
-- Body Detection Package
-- Screenshots
-- CustomPaint
-
-## Screenshots
-<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='400'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='400'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='400'>
-
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
-
-___
 
 # <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44'> Your Wasted Time In School
 
