@@ -143,7 +143,7 @@ If you encounter any bugs or unnecessary lines of code, please email me at: [kma
 
 ___
 
-# <img src='https://github.com/malak4822/Flunny/assets/71153710/ada3686e-1037-4816-8cc0-0406697c1079' width='46'> Flunny
+# <img src='https://github.com/malak4822/Flunny/assets/71153710/ada3686e-1037-4816-8cc0-0406697c1079' width='42'> Flunny
 
 ## Description
 Flunny is a Flutter app that assists in playing the real-life game "Flanki" by tracking time and points.
@@ -153,10 +153,9 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 - Stopwatch Timer
 
 ## Screenshots
-<img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='400'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='400'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='400'>
-More images temporarily unavailable.
+<img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='200'>
+<img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='200'>
+<img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='200'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -173,7 +172,6 @@ Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the
 ## Screenshots
 <img src='https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00' width='400'>
 
-Images temporarily unavailable.
 
 ## Features
 - XML Package
