@@ -20,13 +20,16 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/5f01d9ac-ec0d-4b68-aed6-cee30b56602b' width='400'>
-<img src='https://github.com/user-attachments/assets/6ba7f074-47b5-4ae5-a6c2-4e17edc12a88' width='400'>
 <img src='https://github.com/user-attachments/assets/eb01a390-e9bd-413b-b844-8ea954a68605' width='400'>
+<img src='https://github.com/user-attachments/assets/6ba7f074-47b5-4ae5-a6c2-4e17edc12a88' width='400'>
 <img src='https://github.com/user-attachments/assets/8b29a9fd-a76d-4c07-b1dc-126471b203c6' width='400'>
 <img src='https://github.com/user-attachments/assets/95f13467-16c3-4b7a-9669-25c8540d266f' width='400'>
 <img src='https://github.com/user-attachments/assets/5e1b2789-c001-4e81-a129-aa49b7435876' width='400'>
-
-More images temporarily unavailable.
+<img src='https://github.com/user-attachments/assets/f4f3a432-f710-4394-a0ad-6c3eb34560ee' width='400'>
+<img src='https://github.com/user-attachments/assets/45fca22e-fcf6-4a61-8602-84d7fed4a3b9' width='400'>
+<img src='https://github.com/user-attachments/assets/142ca6d5-8b10-46e5-848b-db97d4a25018' width='400'>
+<img src='https://github.com/user-attachments/assets/0ef6f309-0ddc-42c4-9d15-8679de5e70d6' width='400'>
+<img src='https://github.com/user-attachments/assets/d9557b9e-509f-40ab-8e1e-1d4cb5643c47' width='400'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
