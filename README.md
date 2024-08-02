@@ -117,9 +117,7 @@ This is a Flutter project. It scrapes data using HTTP requests and an external f
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 
-
 ___
-
 
 
 
@@ -131,7 +129,7 @@ The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by �
 ## Links
 <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
 
-<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
 
 
 ## Screenshots
