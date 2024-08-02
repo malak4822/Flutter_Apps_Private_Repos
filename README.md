@@ -46,8 +46,9 @@ ___
 Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
 
 ## Links
-- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
-- <img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='22'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
+
+<img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='22'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
 
 ## Features
 - Body Detection Package
@@ -74,7 +75,7 @@ ___
 "Your Wasted Time in School" is a Flutter app that tracks and analyzes the time spent in school. Developed within a few days, it served as a test of the developer's ability to publish an app on Google Play.
 
 ## Links
-- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Time Wasted In School](https://play.google.com/store/apps/details?id=wastedsqltime.beta&hl=en&gl=US)
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22'> [Time Wasted In School](https://play.google.com/store/apps/details?id=wastedsqltime.beta&hl=en&gl=US)
 
 ## Features
 - Shared Preferences
@@ -127,8 +128,9 @@ ___
 The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by Łona and Webber. It's primarily for amusement and learning. A similar app already exists on Google Play with over a thousand downloads.
 
 ## Links
-- <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
-- <img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
+<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Video Clip](https://www.youtube.com/watch?v=H-IVzFIRSVE&t=139s&ab_channel=DobrzewieszNagrania)
+
+<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='22'> [Clone App](https://play.google.com/store/apps/details?id=com.malak.kacapp&hl=en&gl=US)
 
 
 ## Screenshots
