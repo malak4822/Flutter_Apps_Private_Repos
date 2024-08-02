@@ -50,7 +50,8 @@ Watching UFC from outside the United States can be challenging due to time diffe
 This is a Flutter project. It scrapes data using HTTP requests and an external fight scores API. The project was started but not completed due to other commitments.
 
 ## Screenshots
-Images temporarily unavailable.
+<img src='https://github.com/user-attachments/assets/5ab9768a-6b6e-4629-ae8f-b1ed38d7a12e' width='400'>
+<img src='https://github.com/user-attachments/assets/ecbd9d3e-1c7e-44f4-904a-ca2d202d8d9b' width='400'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -63,8 +64,10 @@ ___
 Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
 
 ## Links
-- [Google Play Link](https://play.google.com/store/apps/details?id=malaq.facei)
-- [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
+
+
+- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='40'> [Google Play](https://play.google.com/store/apps/details?id=malaq.facei)
+- <img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='40'> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
 
 ## Features
 - Body Detection Package
@@ -72,10 +75,9 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 - CustomPaint
 
 ## Screenshots
-<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='200'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='200'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='200'>
-More images temporarily unavailable.
+<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='400'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='400'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='400'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
