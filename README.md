@@ -56,9 +56,10 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 - CustomPaint
 
 ## Screenshots
-<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='200'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='200'>
-<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='200'>
+
+<img src='https://github.com/malak4822/prakapp/assets/71153710/ce670959-afee-4e2e-ba4a-5e2d91ef71d1' width='300'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/469d8d50-218c-4189-8440-b223dccd09cc' width='300'>
+<img src='https://github.com/malak4822/prakapp/assets/71153710/edfa1a4c-531b-49b0-93bd-e4779d05c8f9' width='300'>
 
 ## Bugs & Tips
 If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
