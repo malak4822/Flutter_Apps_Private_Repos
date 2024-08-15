@@ -56,15 +56,14 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 - CustomPaint
 
 ## Screenshots
-![facei_3]()
 
+<img src='https://github.com/user-attachments/assets/361f5109-8eca-46d6-a377-e83f3a64ba9c' width='266'>
+<img src='https://github.com/user-attachments/assets/c6fb7a80-0819-4fa6-84de-c58d10a92cba' width='266'>
+<img src='https://github.com/user-attachments/assets/e60455ed-f556-45cc-a2af-bf41331fed1a' width='266'>
 
-<img src='https://github.com/user-attachments/assets/361f5109-8eca-46d6-a377-e83f3a64ba9c' width='133'>
-<img src='https://github.com/user-attachments/assets/c6fb7a80-0819-4fa6-84de-c58d10a92cba' width='133'>
-<img src='https://github.com/user-attachments/assets/e60455ed-f556-45cc-a2af-bf41331fed1a' width='133'>
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='40'>Tips & Ideas
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 
 
