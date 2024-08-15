@@ -1,6 +1,12 @@
-# Flutter Apps Private Repositories
+<div align="center" style="font-family: Arial, sans-serif; color: #333;">
 
-This repository contains README files from private repositories of apps I have developed.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/aea702a7-0fa7-424a-a536-d3a60af7353d" style="border-radius: 50%;">
+
+<h1 style="font-size: 2.5em; margin: 20px 0;">Hi, I’m Kamil! 👋</h1>
+
+<p style="font-size: 1.2em; line-height: 1.5; max-width: 600px;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
+
+</div>
 
 ___
 
