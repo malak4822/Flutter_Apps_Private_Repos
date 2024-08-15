@@ -32,8 +32,9 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 <img src='https://github.com/user-attachments/assets/22385d78-293f-4c1b-bbae-f3217ce5dd5a' width='400'>
 <img src='https://github.com/user-attachments/assets/d84cc711-9a47-44eb-8bca-2af4e4e7953e' width='400'>
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 
 ___
@@ -61,7 +62,7 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 <img src='https://github.com/user-attachments/assets/c6fb7a80-0819-4fa6-84de-c58d10a92cba' width='266'>
 <img src='https://github.com/user-attachments/assets/e60455ed-f556-45cc-a2af-bf41331fed1a' width='266'>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='40'>Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
@@ -82,14 +83,15 @@ ___
 ## Features
 - Shared Preferences
 
+
 ## Screenshots
-<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/442a6d4c-7e0d-46aa-bff0-f54d7d81a63d' width='400'>
-<img src='https://github.com/malak4822/wstdsqltime/assets/71153710/00b550cd-e88c-49d7-850a-324b9e47012a' width='400'>
+<img src='https://github.com/user-attachments/assets/83cdf356-c234-44e3-99bf-565ab85769d1' width='400'>
+<img src='https://github.com/user-attachments/assets/e1b9838b-1644-45a6-b714-43c41b3d7ea5' width='400'>
 
-Images temporarily unavailable.
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 
 
@@ -114,8 +116,9 @@ This is a Flutter project. It scrapes data using HTTP requests and an external f
 <img src='https://github.com/user-attachments/assets/5ab9768a-6b6e-4629-ae8f-b1ed38d7a12e' width='400'>
 <img src='https://github.com/user-attachments/assets/ecbd9d3e-1c7e-44f4-904a-ca2d202d8d9b' width='400'>
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 
 ___
@@ -137,12 +140,14 @@ The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by �
 <img src='https://github.com/user-attachments/assets/6bc6599b-9259-446c-987e-1bd2ab4c8a40' width='400'>
 <img src='https://github.com/user-attachments/assets/4954423a-fb6c-4b1a-9e41-2d282d597dc9' width='400'>
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-# <img src='https://github.com/malak4822/Flunny/assets/71153710/ada3686e-1037-4816-8cc0-0406697c1079' width='42'> Flunny
+
+# <img src='https://github.com/user-attachments/assets/bc56d935-bf7e-4817-8426-f87fbbfc1dda' width='42'> Flunny
 
 ## Description
 Flunny is a Flutter app that assists in playing the real-life game "Flanki" by tracking time and points.
@@ -152,13 +157,13 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 - Stopwatch Timer
 
 ## Screenshots
-<img src='https://github.com/malak4822/Flunny/assets/71153710/68e305ac-f601-4cd7-935d-3cce4340f7b2' width='200'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/831f4559-a9b1-4e0d-949a-90321f08c46c' width='200'>
-<img src='https://github.com/malak4822/Flunny/assets/71153710/b5abf94b-bd4c-4ea9-b7d1-77a76fbdb870' width='200'>
+<img src='https://github.com/user-attachments/assets/5ff95944-a749-461b-a4a6-6bda9e0c4a7e' width='266'>
+<img src='https://github.com/user-attachments/assets/ab67b7ca-d9af-4e48-bab9-ebf9e8022e78' width='266'>
+<img src='https://github.com/user-attachments/assets/e2d88f6f-564d-45cf-bb21-1771cab2a691' width='266'>
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
 
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 ___
 
 
@@ -169,23 +174,25 @@ ___
 Jap-Eng XMLTranslator is a mobile application developed using Flutter. While the project was not completed, it aimed to provide English to Japanese translation. The name derives from the format of the file used to save translated words.
 
 ## Screenshots
-<img src='https://github.com/malak4822/xmltranslator/assets/71153710/8a34a53f-7923-42b9-b3b9-a6f1fb0b3d00' width='400'>
+<img src='https://github.com/user-attachments/assets/1e224098-4556-4ca4-bc4f-e84d0eceda38' width='400'>
 
 
 ## Features
 - XML Package
 - CustomPaint
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
 # Toipy
 This was an unfinished application that included Google Maps and a user sign-in system, discontinued due to the existence of similar apps in the market.
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
@@ -197,5 +204,6 @@ A Flutter shop project designed for educational purposes, allowing users to add 
 ## Features
 - MySql1 DB Package
 
-## Bugs & Tips
-If you encounter any bugs or unnecessary lines of code, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34'>Tips & Ideas
+
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
