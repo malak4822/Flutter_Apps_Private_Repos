@@ -1,14 +1,3 @@
-<style>
-mark {
-    color: red;
-}
-
-img {
-    border-radius: 40px;
-    margin-bottom: 20px;
-}
-</style>
-
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <img width="110" alt="image" src="https://github.com/user-attachments/assets/aea702a7-0fa7-424a-a536-d3a60af7353d" style="border-radius: 40px; margin-bottom: 20px;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
