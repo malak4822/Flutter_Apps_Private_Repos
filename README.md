@@ -1,12 +1,66 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
-<!--     <img width="80" alt="image" src="https://github.com/user-attachments/assets/aea702a7-0fa7-424a-a536-d3a60af7353d" style="border-radius: 40px; margin-bottom: 20px;"> -->
-    <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
-    <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
+    <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
+    <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
 </div>
 
 ___
 
-# <img src='https://limode.pl/wp-content/uploads/2024/04/6531135b-f743-47d7-8311-d78106360eac.png' width='40' style="border-radius: 40px;"> Praktyki Szkolne
+# <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='40' style="border-radius: 40px;"> Reiki
+
+## Description
+Reiki is an application dedicated to maintaining fresh air and a healthy microclimate in your home. It allows users to control a recuperator from anywhere, monitor air quality, and live healthier every day.
+
+## My Role
+I co-developed this application from scratch for a client over a period of approximately 6 months. My responsibilities included assisting with UI design and implementing the mobile app's logic. The application communicates via WebSockets with a physical device (programmed by our embedded engineer) and operates seamlessly in both Cloud and WiFi modes. I also prepared the visual assets and screenshots presented below.
+
+## Features
+- **Connectivity:** WebSocket Channel, WiFi IoT, WiFi Scan
+- **State Management:** Go Provider, Flutter Hooks
+- **UI/UX:** Flutter Animate, Shimmer, Flutter Screenutil, FL Chart
+- **Backend/Auth:** Firebase (Core, Messaging), Flutter Secure Storage
+- **Navigation:** Go Router
+
+## Screenshots
+<img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266' style="border-radius: 40px;">
+
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+___
+
+# <img src='https://play-lh.googleusercontent.com/mDnLSGoFq1faXuRFgaC77HyPwmTWryitg_ubdIGL0IXTLYWVSGBstIH5ihnZK17XcKo=w480-h960-rw' width='40' style="border-radius: 40px;"> Deimic
+
+## Description
+Control your smart home with ease. Manage lighting, heating, blinds, and more - all from one app. Convenience, comfort, and security at your fingertips.
+
+## My Role
+I worked on enhancing and maintaining this commercial application. My contributions involved implementing new advanced functionalities, such as integrating the DALI lighting system and adding gate control mechanisms. I was also responsible for the visual documentation and screenshots seen below.
+
+## Features
+- **Architecture:** Flutter Bloc, Hydrated Bloc
+- **Communication:** Web Socket Channel, HTTP, Dio
+- **Multimedia & Tools:** QR Code Scanner, Flutter VLC Player, Sentry Flutter
+- **UI Components:** Interactive Slider, Animated Flip Counter, Flutter Portal
+
+## Screenshots
+<img src='https://lh3.googleusercontent.com/oaCAidowUtpGlynP-yTmKqL8XU4tMVnFTxDUrXgnUdLctKCbGz3yCQeVlaX0rSnuoJQ' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/Piq-Dm5yhB910mE2q2Yn9wxghYRz715mk-UDModGRchqJ8IXULMwj-cQHgus9t5-rADT' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/A_Gkrru9kfmMX44NTRGegfhdX2d3t1XJKsMysonDDdEPGmFdyLvp_ugIS88k-RWysIg' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/pOnzzAXO5lcNNb6D7dn9URG1K0HMLyMj4DLZW8xbxcsB5TeqlPl2DebmW5MrQhwA3Q' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/7mee7unJ-HKy0Gw3BnJ5Cn4Sx9QC65UAJ0zvi-ui71M3daNBRjAe7J74ijEXREl52Les' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/9kwbWG8KkSHnLqPZ_GNI77kYWv2kbH39beBK1M6YQCyOyylc0aWPTeZlFi4OxlwC7A' width='266' style="border-radius: 40px;">
+
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+___
+
+# <img src='https://github.com/user-attachments/assets/af9075ea-791f-4fab-866b-682c71a6687c' width='40' style="border-radius: 40px;"> Praktyki Szkolne
 
 ## Description
 This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app developed over 10 months to assist young students in securing school apprenticeships. The app was created in response to the scarcity of opportunities for students to gain real-world job experience. Personally, I faced significant challenges finding apprenticeships, which motivated me to create this app.
