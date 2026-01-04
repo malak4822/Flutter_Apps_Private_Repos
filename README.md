@@ -1,6 +1,10 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
+    
+   <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block;">
+        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose details or source code for those projects. Below are the selected projects I am authorized to showcase.
+   </p>
 </div>
 
 ___
@@ -21,12 +25,14 @@ I co-developed this application from scratch for a client over a period of appro
 - **Navigation:** Go Router
 
 ## Screenshots
-<img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266' style="border-radius: 40px;">
+<div align="center">
+    <img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266' style="border-radius: 40px; margin-bottom: 20px;">
+</div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -48,12 +54,14 @@ I worked on enhancing and maintaining this commercial application. My contributi
 - **UI Components:** Interactive Slider, Animated Flip Counter, Flutter Portal
 
 ## Screenshots
-<img src='https://lh3.googleusercontent.com/oaCAidowUtpGlynP-yTmKqL8XU4tMVnFTxDUrXgnUdLctKCbGz3yCQeVlaX0rSnuoJQ' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/Piq-Dm5yhB910mE2q2Yn9wxghYRz715mk-UDModGRchqJ8IXULMwj-cQHgus9t5-rADT' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/A_Gkrru9kfmMX44NTRGegfhdX2d3t1XJKsMysonDDdEPGmFdyLvp_ugIS88k-RWysIg' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/pOnzzAXO5lcNNb6D7dn9URG1K0HMLyMj4DLZW8xbxcsB5TeqlPl2DebmW5MrQhwA3Q' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/7mee7unJ-HKy0Gw3BnJ5Cn4Sx9QC65UAJ0zvi-ui71M3daNBRjAe7J74ijEXREl52Les' width='266' style="border-radius: 40px;">
-<img src='https://lh3.googleusercontent.com/9kwbWG8KkSHnLqPZ_GNI77kYWv2kbH39beBK1M6YQCyOyylc0aWPTeZlFi4OxlwC7A' width='266' style="border-radius: 40px;">
+<div align="center">
+    <img src='https://lh3.googleusercontent.com/oaCAidowUtpGlynP-yTmKqL8XU4tMVnFTxDUrXgnUdLctKCbGz3yCQeVlaX0rSnuoJQ' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/Piq-Dm5yhB910mE2q2Yn9wxghYRz715mk-UDModGRchqJ8IXULMwj-cQHgus9t5-rADT' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/A_Gkrru9kfmMX44NTRGegfhdX2d3t1XJKsMysonDDdEPGmFdyLvp_ugIS88k-RWysIg' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/pOnzzAXO5lcNNb6D7dn9URG1K0HMLyMj4DLZW8xbxcsB5TeqlPl2DebmW5MrQhwA3Q' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/7mee7unJ-HKy0Gw3BnJ5Cn4Sx9QC65UAJ0zvi-ui71M3daNBRjAe7J74ijEXREl52Les' width='266' style="border-radius: 40px; margin-bottom: 20px;"><br>
+    <img src='https://lh3.googleusercontent.com/9kwbWG8KkSHnLqPZ_GNI77kYWv2kbH39beBK1M6YQCyOyylc0aWPTeZlFi4OxlwC7A' width='266' style="border-radius: 40px; margin-bottom: 20px;">
+</div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
