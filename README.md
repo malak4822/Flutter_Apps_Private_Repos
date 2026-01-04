@@ -3,7 +3,7 @@
     <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
     
    <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block;">
-        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose details or source code for those projects. Below are the selected projects I am authorized to showcase.
+        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose details or source code for those projects.
    </p>
 </div>
 
