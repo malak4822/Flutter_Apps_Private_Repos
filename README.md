@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
+<img width="430" height="932" alt="02" src="https://github.com/user-attachments/assets/f2dccef3-1158-4ba7-9190-3d6edf18d0d7" /><div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
     
@@ -7,6 +7,53 @@
    </p>
 </div>
 
+
+___
+
+# <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
+
+## Description
+Scrolly Charades is a dynamic, interactive party game built with Flutter. Players place the phone on their forehead and guess the words on the screen based on clues from their friends, using physical device movements to score points or skip to the next word.
+
+## My Role
+I developed this application entirely from scratch as a solo developer in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience.
+
+## Features
+- **Game Engine & Mechanics:** Custom game loops and rendering utilizing the `flame` engine.
+- **Motion Controls:** Interactive gameplay using `sensors_plus` to detect device tilt (e.g., tilting up to pass, tilting down for a correct guess).
+- **Audio Feedback:** In-game sound effects and interactive audio using `audioplayers`.
+- **State Management:** Robust application state handling with `flutter_bloc` and `equatable`.
+- **Navigation:** Deep linking and routing handled by `go_router`.
+- **Local Storage:** Saving user preferences, high scores, and unlocked decks using `shared_preferences`.
+
+
+## Screenshots
+<img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
+   <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='ttps://github.com/user-attachments/assets/16de0e1d-8b3a-4788-b16f-c1ea535bee44' width='266' style="border-radius: 40px;">
+   
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+___
+# <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly
+
+## Description
+Scrolly is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. By utilizing native screen time APIs, the app allows users to block distracting applications, set focused work timers, and build healthier digital habits through advanced device control and behavioral tracking.
+
+## My Role
+I am the lead developer of Scrolly, responsible for building the application and continuously expanding its feature set. My work involves implementing complex native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, managing the cloud backend, and delivering a smooth, animated user interface. 
+
+## Features
+- **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
+- **NFC Tag Reader:** Hardware integration for interacting with NFC tags using `nfc_manager` and `ndef`.
+- **Background Work:** Scheduled background task execution and local notifications using `workmanager` and `flutter_local_notifications`.
+- **Backend & Auth:** Firebase integration (Auth, Firestore, Cloud Functions, Messaging) along with native Google and Apple Sign-In.
+- **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
+- **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
+- **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
+
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 ___
 
 # <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='40' style="border-radius: 40px;"> Reiki
