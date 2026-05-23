@@ -1,11 +1,11 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
-    <p style="font-size: 1.2em; margin: 20px 0;">
-        Welcome to my portfolio. Below you'll find a selection of mobile applications I've developed, showcasing the features, architecture, and tech stacks I use. I take pride in end-to-end delivery – all the promotional graphics and app store screenshots you see here were also designed by me! 🚀
+    <p style="font-size: 1.2em; margin: 15px 0;">
+        Welcome to my portfolio. Below are the mobile apps I've built, along with their tech stacks. I handle end-to-end delivery—from code to all the app store graphics! 🚀
     </p>
     
-   <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block;">
-        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose the details or source code for those specific projects here.
+   <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block; margin-top: 5px;">
+        ⚠️ Note: Much of my professional work is under NDA, so their details and source code cannot be shared here.
    </p>
 </div>
 
