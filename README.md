@@ -1,12 +1,13 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
-    <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
-    <p style="font-size: 1.2em; margin: 20px 0;">Welcome to my stash of app secrets (well, just the README files). Enjoy the tour! 🚀</p>
+    <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
+    <p style="font-size: 1.2em; margin: 20px 0;">
+        Welcome to my portfolio. Below you'll find a selection of mobile applications I've developed, showcasing the features, architecture, and tech stacks I use. I take pride in end-to-end delivery – all the promotional graphics and app store screenshots you see here were also designed by me! 🚀
+    </p>
     
    <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block;">
-        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose details or source code for those projects.
+        ⚠️ Note: A significant portion of my professional work is covered by Non-Disclosure Agreements (NDA). Therefore, I cannot disclose the details or source code for those specific projects here.
    </p>
 </div>
-
 
 ___
 
@@ -29,7 +30,6 @@ I developed this application entirely from scratch as a solo developer in approx
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
-   <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;">
    
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -38,10 +38,10 @@ ___
 # <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly
 
 ## Description
-Scrolly is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. By utilizing native screen time APIs, the app allows users to block distracting applications, set focused work timers, and build healthier digital habits through advanced device control and behavioral tracking.
+Scrolly is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
 
 ## My Role
-I am the lead developer of Scrolly, responsible for building the application and continuously expanding its feature set. My work involves implementing complex native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, managing the cloud backend, and delivering a smooth, animated user interface. 
+I am responsible for building the application and continuously expanding its feature set. My work involves implementing native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, background schedules, managing the cloud backend, and delivering a smooth, animated user interface. 
 
 ## Features
 - **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
