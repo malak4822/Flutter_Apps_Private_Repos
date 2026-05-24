@@ -240,7 +240,6 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/5ff95944-a749-461b-a4a6-6bda9e0c4a7e' width='266' style="border-radius: 40px;">
 <img src='https://github.com/user-attachments/assets/ab67b7ca-d9af-4e48-bab9-ebf9e8022e78' width='266' style="border-radius: 40px;">
-<img src='https://github.com/user-attachments/assets/e2d88f6f-564d-45cf-bb21-1771cab2a691' width='266' style="border-radius: 40px;">
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 
