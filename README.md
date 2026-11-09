@@ -1,26 +1,21 @@
-
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 15px 0; max-width: 750px;">
-        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>3-4 years of commercial experience</b>. 
+        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>3–4 years of commercial experience</b>. 
         I specialize in building production-ready mobile apps, full-stack web solutions, AI integrations, and IoT systems—handling full end-to-end delivery from architecture and code to client communication and store graphics! 🚀
     </p>
-    
-    <p> style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px 16px; border-radius: 10px; display: inline-block; margin-top: 5px;">
-        ⚠️ Note: A significant part of my commercial work (enterprise IoT & Smart Home systems) is under strict NDA, so its source code cannot be shared publicly.
+    <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px 16px; border-radius: 10px; display: inline-block; margin-top: 5px;">
+        ⚠️ <b>Note:</b> A significant part of my commercial work (enterprise IoT & Smart Home systems) is under strict NDA, so its source code cannot be shared publicly.
     </p>
 </div>
-
-<!-- TUTAJ TWOJA OBECNA SEKCJA Z APLIKACJAMI MOBILNYMI -->
 
 ---
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
     <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        Beyond mobile engineering, I have delivered <b>6+ commercial websites</b> for business clients and more for friends, my own business ideas or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders, and ship products on deadline. My **3 most recent works**:         
-
-</div>
+        Beyond mobile engineering, I have delivered <b>6+ commercial websites</b> for business clients and more for friends, my own business ideas, or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders and ship products on deadline. My <b>3 most recent works</b>:
+    </p>
 
 | Project | Live Link | Scope & Highlights |
 | :--- | :--- | :--- |
@@ -28,22 +23,19 @@
 | **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform — clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
 | **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal — custom design implementation, CMS configuration, and direct stakeholder collaboration. |
 
+</div>
+
 ---
 
+<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
-<p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
+    <p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
         When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore—so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
     </p>
-    
-
-<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 20px;">
-    <h3 style="font-size: 1.4em; margin-bottom: 8px;">My Current R&D project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
-    <p style="font-size: 1em; max-width: 760px; margin: 0 auto 20px auto; color: #444;">
-     </p>
-    
-<img width="1080" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
-
+    <h3 style="font-size: 1.4em; margin: 20px 0 12px 0;">🎈 My Current R&D Project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
+    <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
 </div>
+
 ___
 
 # <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
