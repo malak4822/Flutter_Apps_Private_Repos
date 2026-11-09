@@ -9,7 +9,7 @@
     </p>
 </div>
 
----
+
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
@@ -25,7 +25,7 @@
 
 </div>
 
----
+
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
