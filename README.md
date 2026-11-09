@@ -14,7 +14,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
     <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        Beyond mobile engineering, I have delivered <b>6+ commercial websites</b> for business clients and more for friends, my own business ideas, or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders and ship products on deadline. My <b>3 most recent works</b>:
+        Beyond mobile engineering, I have delivered <b>8+ commercial websites</b> for business clients and more for friends, my own business ideas, or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders and ship products on deadline. My <b>3 most recent works</b>:
     </p>
 
 | Project | Live Link | Scope & Highlights |
