@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/cda77b72-2c29-4619-9933-6d02563c7f08" />
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 15px 0; max-width: 750px;">
@@ -19,7 +20,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
     <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        Beyond mobile engineering, I have delivered <b>8+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to communicate directly with non-technical stakeholders, and ship products on deadline. Those are 3 examples of my websites (mostly wordpress)
+        Beyond mobile engineering, I have delivered <b>8+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to communicate directly with non-technical stakeholders, and ship products on deadline. Those are three examples.
         
     </p>
 </div>
@@ -32,38 +33,19 @@
 
 ---
 
-<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
-    <p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
-        I love working where software meets the physical world. Professionally, I architect software for <b>Smart Home & building automation systems</b> (DALI, UPnP, WebSockets, NFC, encrypted telemetry). After hours, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
+<p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
+        When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore—so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
     </p>
-</div>
+    
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 20px;">
-    <h3 style="font-size: 1.4em; margin-bottom: 8px;">🎈 Current R&D: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
+    <h3 style="font-size: 1.4em; margin-bottom: 8px;">My Current R&D project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
     <p style="font-size: 1em; max-width: 760px; margin: 0 auto 20px auto; color: #444;">
-        An indoor, helium-based autonomous & remote-controlled robotic airship (inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this open-source Hackaday research</a>). 
-        I use <b>AI agents</b> to accelerate firmware development, control-loop math, and hardware schematics, while building a <b>custom mobile app</b> for low-latency flight control and real-time sensor telemetry.
-    </p>
+     </p>
+    
+<img width="1080" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
 
-    <table>
-        <tr>
-            <td align="center" width="50%" style="padding: 10px;">
-                <img src="spider_prototype.png" alt="Dead-bug / Spider Hardware Prototype" width="100%" style="max-width: 380px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-                <p style="font-size: 0.9em; color: #555; margin-top: 8px;">
-                    <b>🔧 Current Stage ("Spider" Bench Prototype):</b><br/>
-                    <i>Point-to-point soldering, microcontroller wiring, motor drivers & wireless mobile-to-hardware communication tests.</i>
-                </p>
-            </td>
-            <td align="center" width="50%" style="padding: 10px;">
-                <img src="target_airship.png" alt="Target Helium Robotic Airship" width="100%" style="max-width: 380px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-                <p style="font-size: 0.9em; color: #555; margin-top: 8px;">
-                    <b>🚀 Target Form Factor:</b><br/>
-                    <i>Helium envelope + lightweight gondola with vectored thrusters, onboard sensors, and full mobile flight control.</i>
-                </p>
-            </td>
-        </tr>
-    </table>
 </div>
 ___
 
