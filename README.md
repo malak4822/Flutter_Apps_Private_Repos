@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 15px 0; max-width: 750px;">
-        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>5 years of commercial experience</b>. 
+        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>3 years of commercial experience</b>. 
         I specialize in building production-ready mobile apps, full-stack web solutions, AI integrations, and IoT systems—handling full end-to-end delivery from architecture and code to client communication and store graphics! 🚀
     </p>
     <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px 16px; border-radius: 10px; display: inline-block; margin-top: 5px;">
