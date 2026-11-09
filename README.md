@@ -9,7 +9,7 @@
     </p>
 </div>
 
-
+<br>
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
@@ -24,7 +24,7 @@
 | **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal — custom design implementation, CMS configuration, and direct stakeholder collaboration. |
 
 </div>
-
+<br>
 
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
