@@ -20,8 +20,8 @@
 | Project | Live Link | Scope & Highlights |
 | :--- | :--- | :--- |
 | **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website - custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
-| **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform — clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
-| **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal — custom design implementation, CMS configuration, and direct stakeholder collaboration. |
+| **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform - clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
+| **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal - custom design implementation, CMS configuration, and direct stakeholder collaboration. |
 
 </div>
 <br>
