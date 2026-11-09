@@ -20,6 +20,7 @@
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
     <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
         Beyond mobile engineering, I have delivered <b>8+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to communicate directly with non-technical stakeholders, and ship products on deadline. Those are 3 examples of my websites (mostly wordpress)
+        
     </p>
 </div>
 
@@ -32,16 +33,37 @@
 ---
 
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
-    <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & Embedded Engineering</h2>
-    <p style="font-size: 1.1em; max-width: 750px; margin: 0 auto 20px auto;">
-        I love working where software meets the physical world. Professionally, I build software for <b>Smart Home & building automation systems</b> (DALI, UPnP, WebSockets, NFC, custom encryption). After hours, I build <b>IoT robots and hardware prototypes</b>—I'm just as comfortable writing backend/client code as I am holding a <b>soldering iron</b>, wiring microcontrollers, and debugging hardware sensors.
+    <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
+    <p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
+        I love working where software meets the physical world. Professionally, I architect software for <b>Smart Home & building automation systems</b> (DALI, UPnP, WebSockets, NFC, encrypted telemetry). After hours, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
+    </p>
+</div>
+
+<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 20px;">
+    <h3 style="font-size: 1.4em; margin-bottom: 8px;">🎈 Current R&D: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
+    <p style="font-size: 1em; max-width: 760px; margin: 0 auto 20px auto; color: #444;">
+        An indoor, helium-based autonomous & remote-controlled robotic airship (inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this open-source Hackaday research</a>). 
+        I use <b>AI agents</b> to accelerate firmware development, control-loop math, and hardware schematics, while building a <b>custom mobile app</b> for low-latency flight control and real-time sensor telemetry.
     </p>
 
-    <!-- PODMIEŃ ŚCIEŻKĘ DO ZDJĘCIA SWOJEGO ROBOTA PONIŻEJ -->
-    <img src="path/to/your/iot_robot_photo.jpg" alt="My IoT Robot & Hardware Prototype" width="600" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-top: 10px;" />
-    <p style="font-size: 0.95em; color: #666; margin-top: 8px;">
-        <i>Custom-built IoT robot — hardware assembly, soldering, sensor integration & control software.</i>
-    </p>
+    <table>
+        <tr>
+            <td align="center" width="50%" style="padding: 10px;">
+                <img src="spider_prototype.png" alt="Dead-bug / Spider Hardware Prototype" width="100%" style="max-width: 380px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+                <p style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                    <b>🔧 Current Stage ("Spider" Bench Prototype):</b><br/>
+                    <i>Point-to-point soldering, microcontroller wiring, motor drivers & wireless mobile-to-hardware communication tests.</i>
+                </p>
+            </td>
+            <td align="center" width="50%" style="padding: 10px;">
+                <img src="target_airship.png" alt="Target Helium Robotic Airship" width="100%" style="max-width: 380px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+                <p style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                    <b>🚀 Target Form Factor:</b><br/>
+                    <i>Helium envelope + lightweight gondola with vectored thrusters, onboard sensors, and full mobile flight control.</i>
+                </p>
+            </td>
+        </tr>
+    </table>
 </div>
 ___
 
