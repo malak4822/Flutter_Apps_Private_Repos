@@ -19,7 +19,7 @@
 
 | Project | Live Link | Scope & Highlights |
 | :--- | :--- | :--- |
-| **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website — custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
+| **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website - custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
 | **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform — clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
 | **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal — custom design implementation, CMS configuration, and direct stakeholder collaboration. |
 
@@ -30,7 +30,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
     <p style="font-size: 1.1em; max-width: 780px; margin: 0 auto 20px auto;">
-        When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore—so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
+        When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore, so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine <b>AI Agents, mobile engineering, and a soldering iron</b> to build physical hardware from scratch.
     </p>
     <h3 style="font-size: 1.4em; margin: 20px 0 12px 0;">🎈 My Current R&D Project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
     <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
