@@ -1,7 +1,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
     <p style="font-size: 1.2em; margin: 15px 0; max-width: 750px;">
-        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>5+ years of commercial experience</b>. 
+        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>3-4 years of commercial experience</b>. 
         I specialize in building production-ready mobile apps, full-stack web solutions, AI integrations, and IoT systems—handling full end-to-end delivery from architecture and code to client communication and store graphics! 🚀
     </p>
     
@@ -19,7 +19,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
     <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        Beyond mobile engineering, I have delivered <b>10+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to gather business requirements, communicate directly with non-technical stakeholders, and ship reliable products on deadline.
+        Beyond mobile engineering, I have delivered <b>8+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to communicate directly with non-technical stakeholders, and ship products on deadline. Those are 3 examples of my websites (mostly wordpress)
     </p>
 </div>
 
