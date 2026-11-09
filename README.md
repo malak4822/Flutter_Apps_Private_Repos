@@ -1,14 +1,48 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
-    <p style="font-size: 1.2em; margin: 15px 0;">
-        Welcome to my portfolio. Below are the mobile apps I've built, along with their tech stacks. I handle end-to-end delivery—from code to all the app store graphics! 🚀
+    <p style="font-size: 1.2em; margin: 15px 0; max-width: 750px;">
+        I’m a <b>Software Engineer</b> (3rd-year CS @ Warsaw University of Technology & President of the <a href="https://knam.pl">KNAM</a> Science Club) with <b>5+ years of commercial experience</b>. 
+        I specialize in building production-ready mobile apps, full-stack web solutions, AI integrations, and IoT systems—handling full end-to-end delivery from architecture and code to client communication and store graphics! 🚀
     </p>
     
-   <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px; border-radius: 10px; display: inline-block; margin-top: 5px;">
-        ⚠️ Note: Much of my professional work is under NDA, so their details and source code cannot be shared here.
-   </p>
+    <p style="color: #d9534f; font-weight: bold; border: 1px solid #d9534f; padding: 10px 16px; border-radius: 10px; display: inline-block; margin-top: 5px;">
+        ⚠️ Note: A significant part of my commercial work (enterprise IoT & Smart Home systems) is under strict NDA, so its source code cannot be shared publicly.
+    </p>
 </div>
 
+---
+
+<!-- TUTAJ TWOJA OBECNA SEKCJA Z APLIKACJAMI MOBILNYMI -->
+
+---
+
+<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
+    <h2 style="font-size: 2em; margin-bottom: 10px;">🌐 Commercial Web Development & Client Work</h2>
+    <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
+        Beyond mobile engineering, I have delivered <b>10+ commercial websites and web platforms</b> directly for business clients. Working end-to-end taught me how to gather business requirements, communicate directly with non-technical stakeholders, and ship reliable products on deadline.
+    </p>
+</div>
+
+| Project | Live Link | Scope & Highlights |
+| :--- | :--- | :--- |
+| **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website — custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
+| **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform — clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
+| **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal — custom design implementation, CMS configuration, and direct stakeholder collaboration. |
+
+---
+
+<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
+    <h2 style="font-size: 2em; margin-bottom: 10px;">🤖 IoT, Hardware & Embedded Engineering</h2>
+    <p style="font-size: 1.1em; max-width: 750px; margin: 0 auto 20px auto;">
+        I love working where software meets the physical world. Professionally, I build software for <b>Smart Home & building automation systems</b> (DALI, UPnP, WebSockets, NFC, custom encryption). After hours, I build <b>IoT robots and hardware prototypes</b>—I'm just as comfortable writing backend/client code as I am holding a <b>soldering iron</b>, wiring microcontrollers, and debugging hardware sensors.
+    </p>
+
+    <!-- PODMIEŃ ŚCIEŻKĘ DO ZDJĘCIA SWOJEGO ROBOTA PONIŻEJ -->
+    <img src="path/to/your/iot_robot_photo.jpg" alt="My IoT Robot & Hardware Prototype" width="600" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-top: 10px;" />
+    <p style="font-size: 0.95em; color: #666; margin-top: 8px;">
+        <i>Custom-built IoT robot — hardware assembly, soldering, sensor integration & control software.</i>
+    </p>
+</div>
 ___
 
 # <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
