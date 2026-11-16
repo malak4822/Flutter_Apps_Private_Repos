@@ -39,7 +39,7 @@
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">📱 My Mobile Development | Flutter </h2>
             <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        All those applications I developed **on my own** or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
+        All those applications I developed **on** my own or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
     </p><br>
     
 
