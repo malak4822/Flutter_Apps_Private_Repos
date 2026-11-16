@@ -52,13 +52,14 @@ Scrolly Charades is a dynamic, interactive party game built with Flutter. Player
 I developed this application entirely from scratch as a solo developer in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience.
 
 ## Features
+<p text-align:left>
 - **Game Engine & Mechanics:** Custom game loops and rendering utilizing the `flame` engine.
 - **Motion Controls:** Interactive gameplay using `sensors_plus` to detect device tilt (e.g., tilting up to pass, tilting down for a correct guess).
 - **Audio Feedback:** In-game sound effects and interactive audio using `audioplayers`.
 - **State Management:** Robust application state handling with `flutter_bloc` and `equatable`.
 - **Navigation:** Deep linking and routing handled by `go_router`.
 - **Local Storage:** Saving user preferences, high scores, and unlocked decks using `shared_preferences`.
-
+</p>
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
