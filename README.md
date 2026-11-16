@@ -52,7 +52,7 @@ Scrolly Charades is a dynamic, interactive party game built with Flutter. Player
 I developed this application entirely from scratch as a solo developer in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience.
 
 ## Features
-<p text-align:left>
+<p style="text-align:left;">
 - **Game Engine & Mechanics:** Custom game loops and rendering utilizing the `flame` engine.
 - **Motion Controls:** Interactive gameplay using `sensors_plus` to detect device tilt (e.g., tilting up to pass, tilting down for a correct guess).
 - **Audio Feedback:** In-game sound effects and interactive audio using `audioplayers`.
