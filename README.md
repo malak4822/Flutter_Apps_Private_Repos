@@ -40,7 +40,7 @@
     <h2 style="font-size: 2em; margin-bottom: 10px;">📱 My Mobile Development | Flutter </h2>
             <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
         All those applications I developed on my own or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
-    </p>
+    </p><br>
     
 
 # <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
