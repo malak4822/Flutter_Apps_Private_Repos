@@ -36,6 +36,12 @@
     <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
 </div>
 
+<div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
+    <h2 style="font-size: 2em; margin-bottom: 10px;">📱 My Mobile Development | Flutter </h2>
+    // <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
+            <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
+        All those applications I developed on my own or significantly contributed to developing.
+    </p>
 ___
 
 # <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
