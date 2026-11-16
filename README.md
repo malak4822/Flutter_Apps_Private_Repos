@@ -37,10 +37,11 @@
 </div>
 <br><br>
 <div align="center" style="font-family: 'Lato', sans-serif; color: #333; margin-top: 40px;">
-    <h2 style="font-size: 2em; margin-bottom: 10px;">📱 My Mobile Development | Flutter </h2>
-            <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
-        All those applications I developed **on** my own or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
-    </p><br>
+    <h2 style="font-size: 2em; margin-bottom: 10px;">📱 My Mobile Development using Flutter </h2>
+        <p style="font-size: 1.1em; max-width: 700px; margin: 0 auto 20px auto;">
+        All those applications I developed <b>on my own</b> or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
+    </p>
+    <br>
     
 
 # <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px;"> Scrolly Charades
@@ -62,6 +63,7 @@ I developed this application entirely from scratch as a solo developer in approx
 - **Local Storage:** Saving user preferences, high scores, and unlocked decks using `shared_preferences`.
 
 </div>
+
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
    
@@ -79,6 +81,7 @@ I am responsible for building the application and continuously expanding its fea
 
 ## Features
 <div style="text-align: left;">
+
 - **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
 - **NFC Tag Reader:** Hardware integration for interacting with NFC tags using `nfc_manager` and `ndef`.
 - **Background Work:** Scheduled background task execution and local notifications using `workmanager` and `flutter_local_notifications`.
@@ -86,6 +89,7 @@ I am responsible for building the application and continuously expanding its fea
 - **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
 - **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
 - **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
+
 </div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
@@ -102,11 +106,13 @@ I co-developed this application from scratch for a client over a period of appro
 
 ## Features
 <div style="text-align: left;">
+
 - **Connectivity:** WebSocket Channel, WiFi IoT, WiFi Scan
 - **State Management:** Go Provider, Flutter Hooks
 - **UI/UX:** Flutter Animate, Shimmer, Flutter Screenutil, FL Chart
 - **Backend/Auth:** Firebase (Core, Messaging), Flutter Secure Storage
 - **Navigation:** Go Router
+
 </div>
 
 ## Screenshots
@@ -128,10 +134,12 @@ I worked on enhancing and maintaining this commercial application. My contributi
 
 ## Features
 <div style="text-align: left;">
+
 - **Architecture:** Flutter Bloc, Hydrated Bloc
 - **Communication:** Web Socket Channel, HTTP, Dio
 - **Multimedia & Tools:** QR Code Scanner, Flutter VLC Player, Sentry Flutter
 - **UI Components:** Interactive Slider, Animated Flip Counter, Flutter Portal
+
 </div>
 
 ## Screenshots
@@ -155,6 +163,7 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 
 ## Features
 <div style="text-align: left;">
+
 - User Profiles
 - Firebase AppCheck/Auth./Storage
 - Geolocator / Geocoding
@@ -162,6 +171,7 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 - Efficient Downloading Notices Mechanism
 - URL Launcher
 - Shared Preferences
+
 </div>
 
 ## Screenshots
@@ -196,9 +206,11 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 
 ## Features
 <div style="text-align: left;">
+
 - Body Detection Package
 - Screenshots
 - CustomPaint
+
 </div>
 
 ## Screenshots
@@ -223,8 +235,10 @@ ___
 
 ## Features
 <div style="text-align: left;">
+
 - Shared Preferences
 - Timer/Stopwatch Packages
+
 </div>
 
 ## Screenshots
@@ -243,9 +257,13 @@ ___
 Watching UFC from outside the United States can be challenging due to time differences. This app helps by waking up users at the exact time of their chosen fight. It downloads data about the end of the previous fight to notify the user.
 
 ## Features
+<div style="text-align: left;">
+
 - Push Notifications
 - API & Data Scraping
 - Shared Preferences Package
+
+</div>
 
 ## Actions
 This is a Flutter project. It scrapes data using HTTP requests and an external fight scores API. The project was started but not completed due to other commitments.
@@ -286,8 +304,12 @@ ___
 Flunny is a Flutter app that assists in playing the real-life game "Flanki" by tracking time and points.
 
 ## Features
+<div style="text-align: left;">
+
 - Google Sign-In
 - Stopwatch Timer
+
+</div>
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/5ff95944-a749-461b-a4a6-6bda9e0c4a7e' width='266' style="border-radius: 40px;">
@@ -308,8 +330,12 @@ Jap-Eng XML Translator is a mobile application developed using Flutter. While th
 <img src='https://github.com/user-attachments/assets/1e224098-4556-4ca4-bc4f-e84d0eceda38' width='400' style="border-radius: 40px;">
 
 ## Features
+<div style="text-align: left;">
+
 - XML Package
 - CustomPaint
+
+</div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 
@@ -332,7 +358,11 @@ ___
 A Flutter shop project designed for educational purposes, allowing users to add and manage products in a shopping cart. Although temporarily paused, it provided a valuable learning experience.
 
 ## Features
+<div style="text-align: left;">
+
 - MySql1 DB Package
+
+</div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 
