@@ -56,11 +56,9 @@
 </div>
 <br>
 
-<div align="center">
+---
 
-# <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='40' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
-
-</div>
+### <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
 
 ## Description
 Scrolly Charades is a dynamic, interactive party game built with Flutter. Players place the phone on their forehead and guess the words on the screen based on clues from their friends, using physical device movements to score points or skip to the next word.
@@ -81,15 +79,12 @@ I developed this application entirely from scratch as a solo developer in approx
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
 </div>
    
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
-<div align="center">
 
-# <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='40' style="border-radius: 40px; vertical-align: middle;"> Scrolly
-
-</div>
+### <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly
 
 ## Description
 Scrolly is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
@@ -106,15 +101,11 @@ I am responsible for building the application and continuously expanding its fea
 - **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
 - **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 ___
 
-<div align="center">
-
-# <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='40' style="border-radius: 40px; vertical-align: middle;"> Reiki
-
-</div>
+### <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='35' style="border-radius: 40px; vertical-align: middle;"> Reiki
 
 ## Description
 Reiki is an application dedicated to maintaining fresh air and a healthy microclimate in your home. It allows users to control a recuperator from anywhere, monitor air quality, and live healthier every day.
@@ -135,16 +126,12 @@ I co-developed this application from scratch for a client over a period of appro
 <img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://play-lh.googleusercontent.com/mDnLSGoFq1faXuRFgaC77HyPwmTWryitg_ubdIGL0IXTLYWVSGBstIH5ihnZK17XcKo=w480-h960-rw' width='40' style="border-radius: 40px; vertical-align: middle;"> Deimic
-
-</div>
+### <img src='https://play-lh.googleusercontent.com/mDnLSGoFq1faXuRFgaC77HyPwmTWryitg_ubdIGL0IXTLYWVSGBstIH5ihnZK17XcKo=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Deimic
 
 ## Description
 Control your smart home with ease. Manage lighting, heating, blinds, and more - all from one app. Convenience, comfort, and security at your fingertips.
@@ -164,16 +151,12 @@ I worked on enhancing and maintaining this commercial application. My contributi
 <img src='https://lh3.googleusercontent.com/pOnzzAXO5lcNNb6D7dn9URG1K0HMLyMj4DLZW8xbxcsB5TeqlPl2DebmW5MrQhwA3Q' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/7mee7unJ-HKy0Gw3BnJ5Cn4Sx9QC65UAJ0zvi-ui71M3daNBRjAe7J74ijEXREl52Les' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/9kwbWG8KkSHnLqPZ_GNI77kYWv2kbH39beBK1M6YQCyOyylc0aWPTeZlFi4OxlwC7A' width='266' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://github.com/user-attachments/assets/af9075ea-791f-4fab-866b-682c71a6687c' width='40' style="border-radius: 40px; vertical-align: middle;"> Praktyki Szkolne
-
-</div>
+### <img src='https://github.com/user-attachments/assets/af9075ea-791f-4fab-866b-682c71a6687c' width='35' style="border-radius: 40px; vertical-align: middle;"> Praktyki Szkolne
 
 ## Description
 This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app developed over 10 months to assist young students in securing school apprenticeships. The app was created in response to the scarcity of opportunities for students to gain real-world job experience. Personally, I faced significant challenges finding apprenticeships, which motivated me to create this app.
@@ -206,17 +189,13 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 <img src='https://github.com/user-attachments/assets/d84cc711-9a47-44eb-8bca-2af4e4e7953e' width='400' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='40' style="border-radius: 40px; vertical-align: middle;"> Facei
-
-</div>
+### <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='35' style="border-radius: 40px; vertical-align: middle;"> Facei
 
 ## Description
 Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
@@ -238,17 +217,13 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 <img src='https://github.com/user-attachments/assets/e60455ed-f556-45cc-a2af-bf41331fed1a' width='266' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='44' style="border-radius: 40px; vertical-align: middle;"> Your Wasted Time In School
-
-</div>
+### <img src='https://play-lh.googleusercontent.com/E99kSIY3Ssf966NXLQRhgXB165rbmDVfDdsE9JjTQaX4Xx0in6aBcE8puB9IrMKJDAo=w240-h480-rw' width='38' style="border-radius: 40px; vertical-align: middle;"> Your Wasted Time In School
 
 ## Description
 "Your Wasted Time in School" is a Flutter app that tracks and analyzes the time spent in school. Developed within a few days, it served as a test of the developer's ability to publish an app on Google Play.
@@ -266,17 +241,13 @@ ___
 <img src='https://github.com/user-attachments/assets/e1b9838b-1644-45a6-b714-43c41b3d7ea5' width='400' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg' width='40' style="border-radius: 40px; vertical-align: middle;"> UFC Fights Reminder
-
-</div>
+### <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg' width='35' style="border-radius: 40px; vertical-align: middle;"> UFC Fights Reminder
 
 ## Description
 Watching UFC from outside the United States can be challenging due to time differences. This app helps by waking up users at the exact time of their chosen fight. It downloads data about the end of the previous fight to notify the user.
@@ -295,17 +266,13 @@ This is a Flutter project. It scrapes data using HTTP requests and an external f
 <img src='https://github.com/user-attachments/assets/ecbd9d3e-1c7e-44f4-904a-ca2d202d8d9b' width='400' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='32' style="border-radius: 40px; vertical-align: middle;"> Clone App
-
-</div>
+### <img src='https://play-lh.googleusercontent.com/42FrHN3A5sZWWMbX3M5FaMxgdp6vYJ_APbuIub5I98WgB_kRYa7mIw__QHXIr6bjgNM=w240-h480-rw' width='30' style="border-radius: 40px; vertical-align: middle;"> Clone App
 
 ## Description
 The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by Łona and Webber. It's primarily for amusement and learning. A similar app already exists on Google Play with over a thousand downloads.
@@ -321,17 +288,13 @@ The Clone App is a fun Flutter app inspired by the music video ‘Błąd’ by �
 <img src='https://github.com/user-attachments/assets/4954423a-fb6c-4b1a-9e41-2d282d597dc9' width='400' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# <img src='https://github.com/user-attachments/assets/bc56d935-bf7e-4817-8426-f87fbbfc1dda' width='42' style="border-radius: 40px; vertical-align: middle;"> Flunny
-
-</div>
+### <img src='https://github.com/user-attachments/assets/bc56d935-bf7e-4817-8426-f87fbbfc1dda' width='36' style="border-radius: 40px; vertical-align: middle;"> Flunny
 
 ## Description
 Flunny is a Flutter app that assists in playing the real-life game "Flanki" by tracking time and points.
@@ -346,17 +309,13 @@ Flunny is a Flutter app that assists in playing the real-life game "Flanki" by t
 <img src='https://github.com/user-attachments/assets/ab67b7ca-d9af-4e48-bab9-ebf9e8022e78' width='266' style="border-radius: 40px;">
 </div>
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# Jap-Eng XML Translator
-
-</div>
+### Jap-Eng XML Translator
 
 ## Description
 Jap-Eng XML Translator is a mobile application developed using Flutter. While the project was not completed, it aimed to provide English to Japanese translation. The name derives from the format of the file used to save translated words.
@@ -370,31 +329,23 @@ Jap-Eng XML Translator is a mobile application developed using Flutter. While th
 - XML Package
 - CustomPaint
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# Toipy
-
-</div>
+### Toipy
 
 This was an unfinished application that included Google Maps and a user sign-in system, discontinued due to the existence of similar apps in the market.
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 
 ___
 
-<div align="center">
-
-# Database Test App
-
-</div>
+### Database Test App
 
 ## Description
 A Flutter shop project designed for educational purposes, allowing users to add and manage products in a shopping cart. Although temporarily paused, it provided a valuable learning experience.
@@ -402,6 +353,6 @@ A Flutter shop project designed for educational purposes, allowing users to add 
 ## Features
 - MySql1 DB Package
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
 
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
