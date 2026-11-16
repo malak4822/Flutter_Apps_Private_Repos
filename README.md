@@ -52,6 +52,8 @@ Scrolly Charades is a dynamic, interactive party game built with Flutter. Player
 I developed this application entirely from scratch as a solo developer in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience.
 
 ## Features
+<div style="text-align: left;">
+
 - **Game Engine & Mechanics:** Custom game loops and rendering utilizing the `flame` engine.
 - **Motion Controls:** Interactive gameplay using `sensors_plus` to detect device tilt (e.g., tilting up to pass, tilting down for a correct guess).
 - **Audio Feedback:** In-game sound effects and interactive audio using `audioplayers`.
@@ -59,6 +61,7 @@ I developed this application entirely from scratch as a solo developer in approx
 - **Navigation:** Deep linking and routing handled by `go_router`.
 - **Local Storage:** Saving user preferences, high scores, and unlocked decks using `shared_preferences`.
 
+</div>
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"><img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
    
@@ -75,6 +78,7 @@ Scrolly is a digital wellbeing application designed to help users consciously re
 I am responsible for building the application and continuously expanding its feature set. My work involves implementing native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, background schedules, managing the cloud backend, and delivering a smooth, animated user interface. 
 
 ## Features
+<div style="text-align: left;">
 - **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
 - **NFC Tag Reader:** Hardware integration for interacting with NFC tags using `nfc_manager` and `ndef`.
 - **Background Work:** Scheduled background task execution and local notifications using `workmanager` and `flutter_local_notifications`.
@@ -82,6 +86,7 @@ I am responsible for building the application and continuously expanding its fea
 - **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
 - **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
 - **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
+</div>
 
 ## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='34' style="border-radius: 40px;"> Tips & Ideas
 If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
@@ -96,11 +101,13 @@ Reiki is an application dedicated to maintaining fresh air and a healthy microcl
 I co-developed this application from scratch for a client over a period of approximately 6 months. My responsibilities included assisting with UI design and implementing the mobile app's logic. The application communicates via WebSockets with a physical device (programmed by our embedded engineer) and operates seamlessly in both Cloud and WiFi modes. I also prepared the visual assets and screenshots presented below.
 
 ## Features
+<div style="text-align: left;">
 - **Connectivity:** WebSocket Channel, WiFi IoT, WiFi Scan
 - **State Management:** Go Provider, Flutter Hooks
 - **UI/UX:** Flutter Animate, Shimmer, Flutter Screenutil, FL Chart
 - **Backend/Auth:** Firebase (Core, Messaging), Flutter Secure Storage
 - **Navigation:** Go Router
+</div>
 
 ## Screenshots
 <img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266' style="border-radius: 40px;">
@@ -120,10 +127,12 @@ Control your smart home with ease. Manage lighting, heating, blinds, and more - 
 I worked on enhancing and maintaining this commercial application. My contributions involved implementing new advanced functionalities, such as integrating the DALI lighting system and adding gate control mechanisms. I was also responsible for the visual documentation and screenshots seen below.
 
 ## Features
+<div style="text-align: left;">
 - **Architecture:** Flutter Bloc, Hydrated Bloc
 - **Communication:** Web Socket Channel, HTTP, Dio
 - **Multimedia & Tools:** QR Code Scanner, Flutter VLC Player, Sentry Flutter
 - **UI Components:** Interactive Slider, Animated Flip Counter, Flutter Portal
+</div>
 
 ## Screenshots
 <img src='https://lh3.googleusercontent.com/oaCAidowUtpGlynP-yTmKqL8XU4tMVnFTxDUrXgnUdLctKCbGz3yCQeVlaX0rSnuoJQ' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/Piq-Dm5yhB910mE2q2Yn9wxghYRz715mk-UDModGRchqJ8IXULMwj-cQHgus9t5-rADT' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/A_Gkrru9kfmMX44NTRGegfhdX2d3t1XJKsMysonDDdEPGmFdyLvp_ugIS88k-RWysIg' width='266' style="border-radius: 40px;">
@@ -145,6 +154,7 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 
 
 ## Features
+<div style="text-align: left;">
 - User Profiles
 - Firebase AppCheck/Auth./Storage
 - Geolocator / Geocoding
@@ -152,6 +162,7 @@ This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app 
 - Efficient Downloading Notices Mechanism
 - URL Launcher
 - Shared Preferences
+</div>
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/5f01d9ac-ec0d-4b68-aed6-cee30b56602b' width='400' style="border-radius: 40px;">
@@ -184,9 +195,11 @@ Facei is a fun mobile app that lets you swap your nose with various fruits and c
 <img src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='22' style="border-radius: 40px;"> [Medium Article](https://medium.com/@kmalak4822/o-kodzie-kt%C3%B3ry-pozornie-nie-sprawia%C5%82-wi%C4%99kszych-problem%C3%B3w-292d48935bd1)
 
 ## Features
+<div style="text-align: left;">
 - Body Detection Package
 - Screenshots
 - CustomPaint
+</div>
 
 ## Screenshots
 
@@ -209,7 +222,10 @@ ___
 <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px;"> [Time Wasted In School](https://play.google.com/store/apps/details?id=wastedsqltime.beta&hl=en&gl=US)
 
 ## Features
+<div style="text-align: left;">
 - Shared Preferences
+- Timer/Stopwatch Packages
+</div>
 
 ## Screenshots
 <img src='https://github.com/user-attachments/assets/83cdf356-c234-44e3-99bf-565ab85769d1' width='400' style="border-radius: 40px;">
