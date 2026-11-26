@@ -1,4 +1,4 @@
-<div>
+<div style="text-align:center;">
 <h1 style="font-size: 2.5em; margin: 0;"> Hi, I’m Kamil! 👋 </h1>
 </div>
 <div style="font-family: 'Lato', sans-serif; color: #333; max-width: 750px; margin: 15px auto; text-align: left;">
