@@ -62,10 +62,11 @@
 
 ## Stores
 <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en)  (+10 000 users)
-<img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)  (+5 000 users / undefined )
+<br>
+<img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)  (+10 000 users )
 
 ## Description
-Scrolly (+15 000 users) is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
+Scrolly (+20 000 users) is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
 
 ## My Role
 I am responsible for building the application and continuously expanding its feature set. My work involves implementing native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, background schedules, managing the cloud backend, and delivering a smooth, animated user interface. 
@@ -85,7 +86,7 @@ ___
 
 ## Stores
 <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://apps.apple.com/pl/app/charades-scrolly/id6760481268?l=en)
-
+<br>
 <img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://play.google.com/store/apps/details?id=com.scrolly.charades&hl=en)
 
 ## Description
