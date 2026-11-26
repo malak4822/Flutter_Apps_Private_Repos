@@ -24,9 +24,6 @@
 
 I either built or significantly contributed to all of the applications below. Years of shipping them taught me how to keep repositories consistent and maintainable.
 
-<br>
-
----
 
 <br>
 
