@@ -196,7 +196,7 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 ___
 
 
-### <img width="200" height="200" alt="timate_logo" src="https://github.com/user-attachments/assets/e03e4f28-4b24-4976-91e3-3962d6567637"> Timate
+### <img src='https://github.com/user-attachments/assets/e03e4f28-4b24-4976-91e3-3962d6567637' width='200' height='200' alt='timate_logo'> Timate
 
 ## Description
 Timate is a Bluetooth Low Energy (BLE) workforce management solution designed to streamline employee organization, attendance tracking, and workplace presence monitoring. The mobile application acts as a communication bridge between physical **Timate Cards**, nearby mobile devices, and cloud infrastructure for real-time operational visibility.
