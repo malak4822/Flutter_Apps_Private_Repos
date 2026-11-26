@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04" /><div align="center" style="font-family: 'Lato', sans-serif; color: #333;">
     <h1 style="font-size: 2.5em; margin: 0;">Hi, I’m Kamil! 👋</h1>
 </div>
 <div style="font-family: 'Lato', sans-serif; color: #333; max-width: 750px; margin: 15px auto; text-align: left;">
@@ -58,13 +58,42 @@
 
 ---
 
-### <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
+### <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly
+
+## Stores
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;"> [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en)
+<img src='https://github.com/user-attachments/assets/36a29119-8ade-4f66-83d0-add176ec6ab3' width='22' style="border-radius: 40px; vertical-align: middle;"> [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)
 
 ## Description
-Scrolly Charades is a dynamic, interactive party game built with Flutter. Players place the phone on their forehead and guess the words on the screen based on clues from their friends, using physical device movements to score points or skip to the next word.
+Scrolly (+15 000 users) is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
 
 ## My Role
-I developed this application entirely from scratch as a solo developer in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience.
+I am responsible for building the application and continuously expanding its feature set. My work involves implementing native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, background schedules, managing the cloud backend, and delivering a smooth, animated user interface. 
+
+## Features
+- **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
+- **NFC Tag Reader:** Hardware integration for interacting with NFC tags using `nfc_manager` and `ndef`.
+- **Background Work:** Scheduled background task execution and local notifications using `workmanager` and `flutter_local_notifications`.
+- **Backend & Auth:** Firebase integration (Auth, Firestore, Cloud Functions, Messaging) along with native Google and Apple Sign-In.
+- **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
+- **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
+- **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
+
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+___
+
+### <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
+
+## Stores
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;"> [Google Play](https://apps.apple.com/pl/app/charades-scrolly/id6760481268?l=en)
+<img src='https://github.com/user-attachments/assets/36a29119-8ade-4f66-83d0-add176ec6ab3' width='22' style="border-radius: 40px; vertical-align: middle;"> [App Store](https://play.google.com/store/apps/details?id=com.scrolly.charades&hl=en)
+
+## Description
+Scrolly Charades is a companion app of Scrolly, it is interactive party game built with Flutter. Players place the phone on their forehead and guess the words on the screen based on clues from their friends, using physical device movements to score points or skip to the next word.
+
+## My Role
+I developed it as a solo developer entirely from scratch in approximately one month. My responsibilities covered the entire development lifecycle, including game logic design, UI/UX implementation, state management, and integrating hardware sensors and audio for an immersive gameplay experience. 
 
 ## Features
 - **Game Engine & Mechanics:** Custom game loops and rendering utilizing the `flame` engine.
@@ -84,28 +113,7 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 
 ___
 
-### <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly
-
-## Description
-Scrolly is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
-
-## My Role
-I am responsible for building the application and continuously expanding its feature set. My work involves implementing native iOS and Android logic (including custom Screen Time API plugins), integrating hardware features like NFC, background schedules, managing the cloud backend, and delivering a smooth, animated user interface. 
-
-## Features
-- **App Blocking & Screen Time (Parental Control):** Custom native implementations (`screen_time_api_scrolly`) for deep system-level app blocking and monitoring.
-- **NFC Tag Reader:** Hardware integration for interacting with NFC tags using `nfc_manager` and `ndef`.
-- **Background Work:** Scheduled background task execution and local notifications using `workmanager` and `flutter_local_notifications`.
-- **Backend & Auth:** Firebase integration (Auth, Firestore, Cloud Functions, Messaging) along with native Google and Apple Sign-In.
-- **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
-- **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
-- **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
-
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
-If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
-___
-
-### <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='35' style="border-radius: 40px; vertical-align: middle;"> Reiki
+### <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74'  style="border-radius: 40px; vertical-align: middle;"> Reiki
 
 ## Description
 Reiki is an application dedicated to maintaining fresh air and a healthy microclimate in your home. It allows users to control a recuperator from anywhere, monitor air quality, and live healthier every day.
@@ -131,7 +139,7 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 
 ___
 
-### <img src='https://play-lh.googleusercontent.com/mDnLSGoFq1faXuRFgaC77HyPwmTWryitg_ubdIGL0IXTLYWVSGBstIH5ihnZK17XcKo=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Deimic
+### <img src='https://play-lh.googleusercontent.com/mDnLSGoFq1faXuRFgaC77HyPwmTWryitg_ubdIGL0IXTLYWVSGBstIH5ihnZK17XcKo=w480-h960-rw'  style="border-radius: 40px; vertical-align: middle;"> Deimic
 
 ## Description
 Control your smart home with ease. Manage lighting, heating, blinds, and more - all from one app. Convenience, comfort, and security at your fingertips.
@@ -156,7 +164,7 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 
 ___
 
-### <img src='https://github.com/user-attachments/assets/af9075ea-791f-4fab-866b-682c71a6687c' width='35' style="border-radius: 40px; vertical-align: middle;"> Praktyki Szkolne
+### <img src='https://github.com/user-attachments/assets/af9075ea-791f-4fab-866b-682c71a6687c'  style="border-radius: 40px; vertical-align: middle;"> Praktyki Szkolne
 
 ## Description
 This project consists of over 5,880 lines of code. "Praktyki Szkolne" is an app developed over 10 months to assist young students in securing school apprenticeships. The app was created in response to the scarcity of opportunities for students to gain real-world job experience. Personally, I faced significant challenges finding apprenticeships, which motivated me to create this app.
@@ -197,7 +205,7 @@ ___
 
 
 
-### <img src='https://github.com/user-attachments/assets/e03e4f28-4b24-4976-91e3-3962d6567637' width='35' style="border-radius: 40px; vertical-align: middle;"> Timate
+### <img src='https://github.com/user-attachments/assets/e03e4f28-4b24-4976-91e3-3962d6567637'  style="border-radius: 40px; vertical-align: middle;"> Timate
 
 ## Description
 Timate is a Bluetooth Low Energy (BLE) workforce management solution designed to streamline employee organization, attendance tracking, and workplace presence monitoring. The mobile application acts as a communication bridge between physical **Timate Cards**, nearby mobile devices, and cloud infrastructure for real-time operational visibility.
@@ -214,7 +222,7 @@ I co-developed this application from scratch and conducted deep R&D into native 
 
 ___
 
-### <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='35' style="border-radius: 40px; vertical-align: middle;"> Facei
+### <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g'  style="border-radius: 40px; vertical-align: middle;"> Facei
 
 ## Description
 Facei is a fun mobile app that lets you swap your nose with various fruits and change backgrounds. Developed in one month during a school apprenticeship project, it includes a story in Polish about its creation, published on Medium.
@@ -266,7 +274,7 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 
 ___
 
-### <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg' width='35' style="border-radius: 40px; vertical-align: middle;"> UFC Fights Reminder
+### <img src='https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg'  style="border-radius: 40px; vertical-align: middle;"> UFC Fights Reminder
 
 ## Description
 Watching UFC from outside the United States can be challenging due to time differences. This app helps by waking up users at the exact time of their chosen fight. It downloads data about the end of the previous fight to notify the user.
