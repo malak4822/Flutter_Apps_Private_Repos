@@ -195,6 +195,33 @@ If you encounter any inaccuracies or have any ideas, please email me at: [kmalak
 
 ___
 
+
+### <img src='<img width="200" height="200" alt="timate_logo" src="https://github.com/user-attachments/assets/e03e4f28-4b24-4976-91e3-3962d6567637" Timate
+
+## Description
+Timate is a Bluetooth Low Energy (BLE) workforce management solution designed to streamline employee organization, attendance tracking, and workplace presence monitoring. The mobile application acts as a communication bridge between physical **Timate Cards**, nearby mobile devices, and cloud infrastructure for real-time operational visibility.
+
+## My Role
+I co-developed this application from scratch and conducted deep R&D into native Android OS restrictions using **Kotlin**. My primary objective was to engineer and validate background execution mechanisms—testing whether the mobile app could reliably detect, communicate with the **Timate Card** over BLE, and relay data across devices and the cloud even when the application process was completely killed by the system.
+
+## Features
+- **BLE Hardware Integration:** Low-energy scanning, device discovery, and bidirectional data exchange with physical **Timate Cards**.
+- **Native Android Background R&D:** Custom **Kotlin** platform channels, Foreground Services, and system wake-up triggers designed to work around aggressive Android battery optimizations and app process termination.
+- **Cross-Device & Cloud Sync:** Reliable data relay between edge hardware, companion mobile devices, and cloud services.
+- **Offline-First Resilience:** Local data queuing and secure storage to ensure zero packet loss when network connectivity is unavailable.
+- **Architecture & State Management:** Clean separation between Flutter UI/business logic and native Android platform code.
+
+## Screenshots
+<div align="center">
+<img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266' style="border-radius: 40px;">
+<img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266' style="border-radius: 40px;"> <img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266' style="border-radius: 40px;">
+</div>
+
+## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+___
+
 ### <img src='https://lh3.googleusercontent.com/9eq6xSjFiwl2f4dXSB3AGsvsDlv5DaZGu4J2k5k4F87CHoyFBlrYd1P659LWC5kh1g' width='35' style="border-radius: 40px; vertical-align: middle;"> Facei
 
 ## Description
