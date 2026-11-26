@@ -14,34 +14,9 @@
   </div>
 </div>
 
-<br><br>
+---
 
-<div align="center">
-  <h2>🌐 Commercial Web Development & Client Work</h2>
-</div>
-
-Beyond mobile engineering, I have delivered **8+ commercial websites** for business clients and more for friends, my own business ideas, or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders and ship products on deadline. My **3 most recent works**:
-
-| Project | Live Link | Scope & Highlights |
-| :--- | :--- | :--- |
-| **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website - custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
-| **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform - clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
-| **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal - custom design implementation, CMS configuration, and direct stakeholder collaboration. |
-
-<br><br>
-
-<div align="center">
-  <h2>🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
-</div>
-
-When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore, so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine **AI Agents, mobile engineering, and a soldering iron** to build physical hardware from scratch.
-
-<div align="center">
-  <h3>🎈 My Current R&D Project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
-  <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
-</div>
-
-<br><br>
+<br>
 
 <div align="center">
   <h2>📱 My Mobile Development using Flutter</h2>
@@ -49,7 +24,7 @@ When I realized how much AI could help me learn and build, I found out that the 
 
 All those applications I developed **on my own** or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
 
-<br><br>
+<br>
 
 ---
 
@@ -112,7 +87,6 @@ I developed it as a solo developer entirely from scratch in approximately one mo
   <img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266'>
   <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266'>
   <img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266'>
-  <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266'>
 </div>
 
 <br><br>
@@ -246,6 +220,36 @@ I co-developed this application from scratch and conducted deep R&D into native 
 - **Architecture & State Management:** Clean separation between Flutter UI/business logic and native Android platform code.
 
 <br><br>
+
+---
+
+<br><br>
+
+<div align="center">
+  <h2>🌐 Commercial Web Development & Client Work</h2>
+</div>
+
+Beyond mobile engineering, I have delivered **8+ commercial websites** for business clients and more for friends, my own business ideas, or even just for fun. Working end-to-end taught me how to communicate directly with non-technical stakeholders and ship products on deadline. My **3 most recent works**:
+
+| Project | Live Link | Scope & Highlights |
+| :--- | :--- | :--- |
+| **AuraBar** | [🔗 aurabar.pl](https://aurabar.pl/) | Commercial brand website - custom UI/UX, responsive layout, performance & SEO optimization, direct client delivery. |
+| **Closer Together** | [🔗 closertogether.care](https://closertogether.care/) | Healthcare / Care platform - clean, accessible interface tailored to target users, full end-to-end setup and deployment. |
+| **Joanna Pęzińska** | [🔗 joannapezinska.pl](https://joannapezinska.pl/) | Personal brand & services portal - custom design implementation, CMS configuration, and direct stakeholder collaboration. |
+
+<br><br>
+
+<div align="center">
+  <h2>🤖 IoT, Hardware & AI-Assisted Embedded R&D</h2>
+</div>
+
+When I realized how much AI could help me learn and build, I found out that the entry barrier to embedded systems wasn't a barrier anymore, so I started a new project inspired by <a href="https://hackaday.io/project/171797-a-helium-based-affordable-robotic-airship" target="_blank">this Hackaday airship</a>. The goal is to build a flying airship controlled by my own mobile app. To make it happen, I combine **AI Agents, mobile engineering, and a soldering iron** to build physical hardware from scratch.
+
+<div align="center">
+  <h3>🎈 My Current R&D Project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
+  <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
+</div>
+<br>
 
 ---
 
