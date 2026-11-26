@@ -22,7 +22,7 @@
   <h2>📱 My Mobile Development using Flutter</h2>
 </div>
 
-All those applications I developed **on my own** or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
+All applications below I or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
 
 <br>
 
@@ -51,8 +51,42 @@ I am responsible for building the application and continuously expanding its fea
 - **State Management & Architecture:** A robust mix of `flutter_bloc`, `provider`, and `flutter_hooks`.
 - **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
 - **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
+- 
+<br>
 
-<br><br>
+---
+
+<br>
+
+# <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='46'> Reiki
+
+### Description
+Reiki is an application dedicated to maintaining fresh air and a healthy microclimate in your home. It allows users to control a recuperator from anywhere, monitor air quality, and live healthier every day.
+
+### My Role
+I co-developed this application from scratch for a client over a period of approximately 6 months. My responsibilities included assisting with UI design and implementing the mobile app's logic. The application communicates via WebSockets with a physical device (programmed by our embedded engineer) and operates seamlessly in both Cloud and WiFi modes. I also prepared the visual assets and screenshots presented below.
+
+### Features
+- **Connectivity:** WebSocket Channel, WiFi IoT, WiFi Scan
+- **State Management:** Go Provider, Flutter Hooks
+- **UI/UX:** Flutter Animate, Shimmer, Flutter Screenutil, FL Chart
+- **Backend/Auth:** Firebase (Core, Messaging), Flutter Secure Storage
+- **Navigation:** Go Router
+
+### Screenshots
+<div align="center">
+  <img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266'>
+  <img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266'>
+  <img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266'>
+  <img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266'>
+  <img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266'>
+  <img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266'>
+</div>
+
+### <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30'> Tips & Ideas
+If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
+
+<br>
 
 ---
 
@@ -89,41 +123,7 @@ I developed it as a solo developer entirely from scratch in approximately one mo
   <img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266'>
 </div>
 
-<br><br>
-
----
-
 <br>
-
-# <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74' width='46'> Reiki
-
-### Description
-Reiki is an application dedicated to maintaining fresh air and a healthy microclimate in your home. It allows users to control a recuperator from anywhere, monitor air quality, and live healthier every day.
-
-### My Role
-I co-developed this application from scratch for a client over a period of approximately 6 months. My responsibilities included assisting with UI design and implementing the mobile app's logic. The application communicates via WebSockets with a physical device (programmed by our embedded engineer) and operates seamlessly in both Cloud and WiFi modes. I also prepared the visual assets and screenshots presented below.
-
-### Features
-- **Connectivity:** WebSocket Channel, WiFi IoT, WiFi Scan
-- **State Management:** Go Provider, Flutter Hooks
-- **UI/UX:** Flutter Animate, Shimmer, Flutter Screenutil, FL Chart
-- **Backend/Auth:** Firebase (Core, Messaging), Flutter Secure Storage
-- **Navigation:** Go Router
-
-### Screenshots
-<div align="center">
-  <img src='https://lh3.googleusercontent.com/G4fVHvoTJ0bAeyK3syCbN-HGUxxE88k2eHAcLHaJP2rQvG2GhA_7dqBZkiiWak9yplog' width='266'>
-  <img src='https://lh3.googleusercontent.com/o8Flu5xWW77sFWCS8vakrZfnlnQILuU4UknjxiAKdzZxIe_6EOlOTEMgLhd1EPVr-w' width='266'>
-  <img src='https://lh3.googleusercontent.com/gfbqV5T_iDY2Tr9cKtK0itn1Gmx3_4RuBE68GrfcyyPcdvz2_VOs8VHE6CyxrrCnJA' width='266'>
-  <img src='https://lh3.googleusercontent.com/lFls_UkwD7WVVXosaHxFSAAlwJaLlVuhwE7V0bWlcdSvCOGlzrnK421ZgGwBKAVqVQE' width='266'>
-  <img src='https://lh3.googleusercontent.com/GKL9i_pnhAN-dKCyQWaBF6cVDb3Vq6LOEjON2YnFe_CsKsqETz8iLY6Dpd5sC8_gVhA' width='266'>
-  <img src='https://lh3.googleusercontent.com/LtMDf-DWJSaB9HqJDErhlk4w9jxtXdse3PLlfMjOMZNsn4ibvgIabZLncWfJLxfVr4Y' width='266'>
-</div>
-
-### <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30'> Tips & Ideas
-If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
-
-<br><br>
 
 ---
 
@@ -249,6 +249,18 @@ When I realized how much AI could help me learn and build, I found out that the 
   <h3>🎈 My Current R&D Project: Mobile-Controlled Robotic Airship (Helium Drone)</h3>
   <img width="720" alt="Mobile-Controlled Robotic Airship R&D" src="https://github.com/user-attachments/assets/048d163a-5897-4993-9cf0-3199308fde29" />
 </div>
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h2>📱 Rest Of My Mobile Development using Flutter</h2>
+</div>
+
+Applications below I developed **on my own**.
+
 <br>
 
 ---
