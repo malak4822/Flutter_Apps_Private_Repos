@@ -22,7 +22,7 @@
   <h2>📱 My Mobile Development using Flutter</h2>
 </div>
 
-All applications below I or significantly contributed to developing, years of coding them taught me to pay attention to keep the repo consistent and maintainable.
+I either built or significantly contributed to all of the applications below. Years of shipping them taught me how to keep repositories consistent and maintainable.
 
 <br>
 
