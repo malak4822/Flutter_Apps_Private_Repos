@@ -61,8 +61,8 @@
 ### <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly
 
 ## Stores
-- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;"> [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en) (+10 000 users)
-- <img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;"> [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en) (+5 000 users / undefined )
+- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en)  (+10 000 users)
+- <img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)  (+5 000 users / undefined )
 
 ## Description
 Scrolly (+15 000 users) is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
@@ -86,8 +86,8 @@ ___
 ### <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
 
 ## Stores
-<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;"> [Google Play](https://apps.apple.com/pl/app/charades-scrolly/id6760481268?l=en)
-<img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;"> [App Store](https://play.google.com/store/apps/details?id=com.scrolly.charades&hl=en)
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://apps.apple.com/pl/app/charades-scrolly/id6760481268?l=en)
+<img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://play.google.com/store/apps/details?id=com.scrolly.charades&hl=en)
 
 ## Description
 Scrolly Charades is a companion app of Scrolly, it is interactive party game built with Flutter. Players place the phone on their forehead and guess the words on the screen based on clues from their friends, using physical device movements to score points or skip to the next word.
