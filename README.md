@@ -61,8 +61,8 @@
 ### <img src='https://play-lh.googleusercontent.com/D4Q3CxBb835ZvHeZbkFKcCgkOWTwqiAUmt_I77br09EmtAKsFlAe1vuWEnuDjQis-Mj0GTc81EoQL7FOH9w9jA=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly
 
 ## Stores
-- <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en)  (+10 000 users)
-- <img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)  (+5 000 users / undefined )
+<img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://play.google.com/store/apps/details?id=com.scrolly&hl=en)  (+10 000 users)
+<img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://apps.apple.com/pl/app/scrolly-your-screen-time-buddy/id6746136491?l=en)  (+5 000 users / undefined )
 
 ## Description
 Scrolly (+15 000 users) is a digital wellbeing application designed to help users consciously reduce their screen time and regain focus. The app allows users to block distracting applications, set focused work timers, and build healthier digital habits.
@@ -79,14 +79,13 @@ I am responsible for building the application and continuously expanding its fea
 - **Local Storage:** Fast local data persistence using `hive` and `shared_preferences`.
 - **Rich UI & Media:** Dynamic charts (`fl_chart`), complex animations (`flutter_animate`, `lottie`), responsive layouts (`flutter_screenutil`), and custom video playback (`media_kit`, `video_player`).
 
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
-If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
 ___
 
 ### <img src='https://play-lh.googleusercontent.com/m_7-KYFnuqYlNdwvn_W5n0G5RHkd9xZSjmlMcNDc2TEhLJ1y7jhDdtkRBBuWMtzarLX82rKmDu9zoL4yiMt8=w480-h960-rw' width='35' style="border-radius: 40px; vertical-align: middle;"> Scrolly Charades
 
 ## Stores
 <img src='https://cdn-icons-png.flaticon.com/512/732/732208.png' width='22' style="border-radius: 40px; vertical-align: middle;">  [Google Play](https://apps.apple.com/pl/app/charades-scrolly/id6760481268?l=en)
+
 <img src='https://github.com/user-attachments/assets/cdfa7746-c077-49c5-8e07-b73ad4430c04' width='22' style="border-radius: 40px; vertical-align: middle;">  [App Store](https://play.google.com/store/apps/details?id=com.scrolly.charades&hl=en)
 
 ## Description
@@ -108,9 +107,6 @@ I developed it as a solo developer entirely from scratch in approximately one mo
 <img src='https://github.com/user-attachments/assets/a6435fbf-c47a-4249-a308-e26d11706e87' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/58e06376-384d-4d0d-bcea-68085ffc0ac4' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/c9d2d1bc-9373-4e17-9aab-002b87f55c3e' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/d8df1592-518f-4154-bb16-37b5d892a947' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/b4d5ba06-ede4-4c7d-a6c6-03bc43d777a1' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dde0b023-1cb8-4f01-a263-b95978305e02' width='266' style="border-radius: 40px;"> <img src='https://github.com/user-attachments/assets/dba9a701-eb1f-48ad-8748-d48229fff8f8' width='266' style="border-radius: 40px;">
 </div>
    
-## <img src='https://github.com/user-attachments/assets/73b0f6a6-7f51-4967-b4fd-7e9ff7436c8e' width='30' style="border-radius: 40px; vertical-align: middle;"> Tips & Ideas
-If you encounter any inaccuracies or have any ideas, please email me at: [kmalak4822@gmail.com](mailto:kmalak4822@gmail.com)
-
 ___
 
 ### <img src='https://lh3.googleusercontent.com/C5u2TWdsoBEy5uppZrxDOfFb49hJNGsJMI2QfszX6m8i9CSWFPOtMG6iHkwUebljT74'  style="border-radius: 40px; vertical-align: middle;"> Reiki
