@@ -203,7 +203,7 @@ ___
 Timate is a Bluetooth Low Energy (BLE) workforce management solution designed to streamline employee organization, attendance tracking, and workplace presence monitoring. The mobile application acts as a communication bridge between physical **Timate Cards**, nearby mobile devices, and cloud infrastructure for real-time operational visibility.
 
 ## My Role
-I co-developed this application from scratch and conducted deep R&D into native Android OS restrictions using **Kotlin**. My primary objective was to engineer and validate background execution mechanisms—testing whether the mobile app could reliably detect, communicate with the **Timate Card** over BLE, and relay data across devices and the cloud even when the application process was completely killed by the system.
+I co-developed this application from scratch and conducted deep R&D into native Android OS restrictions using **Kotlin**. My primary objective was to engineer and validate background execution mechanisms-testing whether the mobile app could reliably detect, communicate with the **Timate Card** over BLE, and relay data across devices and the cloud even when the application process was completely killed by the system.
 
 ## Features
 - **BLE Hardware Integration:** Low-energy scanning, device discovery, and bidirectional data exchange with physical **Timate Cards**.
